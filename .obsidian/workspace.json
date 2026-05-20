@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "d69ec261a6cb9d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f9de250f47df8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae816b5dd99603f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-Index"
+            }
+          },
+          {
+            "id": "e737f541e5314229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/01-First-Post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-First-Post"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d69cbbd1fa26e812",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d02d0e893408136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "022d98cf92d7b314",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a267e37f2d9f5d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6de908529c8d9baf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0468193c0d7d58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c86b9c8083219b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af7972c9892a6b13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00-Index"
+            }
+          },
+          {
+            "id": "f23c3d76d5770080",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00-Index"
+            }
+          },
+          {
+            "id": "68b010230c24687e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a62e3b7bc70d0960",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec1a82a5b3654571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00-Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bae816b5dd99603f",
+  "lastOpenFiles": [
+    "README.md",
+    "_Plan/03-Phase-3-Vault-Gen.md",
+    "_Plan/02-Phase-2-Filter.md",
+    "_Data/DATA-MANIFEST.md",
+    "_Plan/01-Phase-1-Extract.md",
+    "_Plan/00-Plan.md",
+    "_Scripts/generate_vault.md",
+    "_Scripts/filter_tweets.md",
+    "_Scripts/fill_missing_tweets.md",
+    "_Scripts/extract_raicher.md",
+    "00-Index.md",
+    "Analysis/01-First-Post.md",
+    "Analysis/08-Bio.md",
+    "Analysis/07-Evolution.md",
+    "Analysis/06-Corpus.md",
+    "Analysis/05-Key-Predictions.md",
+    "Analysis/04-Glossary.md",
+    "Analysis/03-Raicher-Strategy.md",
+    "Analysis/02-Methodology.md",
+    "_Scripts/merge_missing.py",
+    "_Data/raw_missing/2025-07",
+    "_Data/raw_missing/2025-06/page_02.json",
+    "_Data/raw_missing/2025-06/page_01.json",
+    "_Data/raw_missing/2025-06/page_00.json",
+    "_Data/raw_missing/2025-06",
+    "_Data/raw_missing/2025-05",
+    "_Data/raw_missing/2025-04/page_03.json",
+    "_Data/raw_missing/2025-04/page_02.json",
+    "_Data/raw_missing/2025-04/page_01.json",
+    "Welcome.md"
+  ]
+}

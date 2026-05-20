@@ -1,0 +1,589 @@
+{
+  "data": [
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1807155906288746554"
+        }
+      ],
+      "created_at": "2024-06-29T23:34:46.000Z",
+      "author_id": "14380292",
+      "id": "1807196037985280058",
+      "text": "RT @bksbk6: @bitcoinheiros @raicher @bitdov @bitofsilence by @ShadowsLewis https://t.co/JzqG47VPH3",
+      "edit_history_tweet_ids": [
+        "1807196037985280058"
+      ],
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1806458849446027566"
+        }
+      ],
+      "created_at": "2024-06-28T03:27:11.000Z",
+      "author_id": "14380292",
+      "id": "1806529752075051047",
+      "text": "@atlasrevoltad0 \u2764\ufe0f",
+      "edit_history_tweet_ids": [
+        "1806529752075051047"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 143
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1803738385590231505"
+        }
+      ],
+      "created_at": "2024-06-21T05:00:46.000Z",
+      "author_id": "14380292",
+      "id": "1804016589639160028",
+      "text": "\ud83d\udc40 https://t.co/WfcxfGbouz",
+      "edit_history_tweet_ids": [
+        "1804016589639160028"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1042
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1803594917601476844"
+        }
+      ],
+      "created_at": "2024-06-20T01:22:35.000Z",
+      "author_id": "14380292",
+      "id": "1803599295167471867",
+      "text": "RT @BitcoinPierre: NVDA priced in #BTC https://t.co/qSLTNq8fMB",
+      "edit_history_tweet_ids": [
+        "1803599295167471867"
+      ],
+      "public_metrics": {
+        "retweet_count": 50,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1803433995599745325"
+        }
+      ],
+      "created_at": "2024-06-19T15:19:20.000Z",
+      "author_id": "14380292",
+      "id": "1803447481054929082",
+      "text": "RT @ralph_maxi: \u201cO dinheiro n\u00e3o \u00e9 uma medida de valor, nem \u00e9 uma medida de pre\u00e7o. O valor n\u00e3o \u00e9 medido em dinheiro. Os pre\u00e7os tamb\u00e9m n\u00e3o s\u00e3\u2026",
+      "edit_history_tweet_ids": [
+        "1803447481054929082"
+      ],
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1799976639427994064"
+        }
+      ],
+      "created_at": "2024-06-17T00:30:29.000Z",
+      "author_id": "14380292",
+      "id": "1802499016581951818",
+      "text": "AINDA N\u00c3O!\n\nQuem sabe daqui 7 dias no fechamento do pr\u00f3ximo Semanal!\n\nEssa resist\u00eancia superior do RSI nos 70 \u00e9 realmente muito importante. At\u00e9 vencermos ela, n\u00e3o tem jogo. https://t.co/KbF7ZTFe4l https://t.co/GnJ9FnPNKr",
+      "edit_history_tweet_ids": [
+        "1802499016581951818"
+      ],
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 3,
+        "like_count": 62,
+        "quote_count": 2,
+        "bookmark_count": 1,
+        "impression_count": 13001
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799977545204408400"
+        }
+      ],
+      "created_at": "2024-06-10T01:57:40.000Z",
+      "author_id": "14380292",
+      "id": "1799984245235937662",
+      "text": "@CheckmateBra22 Cara, na realidade esse thread \u00e9 auto-explicativo. D\u00e1 uma lida na thread original com aten\u00e7\u00e3o pra reconhecer cada coisa que eu citei.\n\nO \u00fanico indicador que eu usei nessa an\u00e1lise \u00e9 o RSI (parte de baixo do gr\u00e1fico). A linha do RSI \u00e9 roxa e a m\u00e9dia \u00e9 amarela.",
+      "edit_history_tweet_ids": [
+        "1799984245235937662"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 139
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1798468126444765458"
+        }
+      ],
+      "created_at": "2024-06-10T01:27:27.000Z",
+      "author_id": "14380292",
+      "id": "1799976639427994064",
+      "text": "Ainda n\u00e3o foi desta vez. Quem sabe no fechamento daqui 7 dias.\n\nContinuamos observando. RSI est\u00e1 exatamente na Resist\u00eancia Superior do Semanal. https://t.co/hIpxqKGx6P https://t.co/7rmcjjqk6h",
+      "edit_history_tweet_ids": [
+        "1799976639427994064"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 57,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 7282
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799266216609218653"
+        }
+      ],
+      "created_at": "2024-06-08T04:24:23.000Z",
+      "author_id": "14380292",
+      "id": "1799296390708990440",
+      "text": "@edgardrj26 Para tocar o topo equivalente de 2017, o pre\u00e7o seria 46% acima do atual, ou seja, aproximadamente 100K.",
+      "edit_history_tweet_ids": [
+        "1799296390708990440"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 98
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799056994961424529"
+        }
+      ],
+      "created_at": "2024-06-07T13:21:14.000Z",
+      "author_id": "14380292",
+      "id": "1799069105104076968",
+      "text": "@_miguelmedeiros @narcelio \ud83e\udd23",
+      "edit_history_tweet_ids": [
+        "1799069105104076968"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 66
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798876119485010157"
+        }
+      ],
+      "created_at": "2024-06-07T00:37:31.000Z",
+      "author_id": "14380292",
+      "id": "1798876911663517705",
+      "text": "@Ruan_Mgs Simplificando, a massa monet\u00e1ria inflou mais r\u00e1pido que o pre\u00e7o do Bitcoin desde 2017 at\u00e9 hoje. O pre\u00e7o est\u00e1 muito defasado.\n\nhttps://t.co/vjGxn2GLL0",
+      "edit_history_tweet_ids": [
+        "1798876911663517705"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 1144
+      }
+    },
+    {
+      "created_at": "2024-06-06T23:22:14.000Z",
+      "author_id": "14380292",
+      "id": "1798857964050342063",
+      "text": "E se eu te disser que em termos de M1 money supply, o #Bitcoin ainda n\u00e3o ultrapassou o topo de Dezembro de 2017? \ud83e\udd2f https://t.co/zw8GKIwY1Y",
+      "edit_history_tweet_ids": [
+        "1798857964050342063"
+      ],
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 18,
+        "like_count": 302,
+        "quote_count": 0,
+        "bookmark_count": 12,
+        "impression_count": 18358
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798704205261418768"
+        }
+      ],
+      "created_at": "2024-06-06T13:22:18.000Z",
+      "author_id": "14380292",
+      "id": "1798706984222589261",
+      "text": "@birinaite80 @bitdov \ud83e\udd2b",
+      "edit_history_tweet_ids": [
+        "1798706984222589261"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 87
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798468126444765458"
+        }
+      ],
+      "created_at": "2024-06-05T23:35:58.000Z",
+      "author_id": "14380292",
+      "id": "1798499034342314069",
+      "text": "Em resposta aos pedidos sobre a configura\u00e7\u00e3o do RSI. https://t.co/SwXUfqW5c1",
+      "edit_history_tweet_ids": [
+        "1798499034342314069"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 43,
+        "quote_count": 0,
+        "bookmark_count": 13,
+        "impression_count": 1937
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798468123844387054"
+        }
+      ],
+      "created_at": "2024-06-05T21:33:09.000Z",
+      "author_id": "14380292",
+      "id": "1798468126444765458",
+      "text": "Aqui um Zoom na situa\u00e7\u00e3o atual. Pouco mais de 4 dias observando a performance dessa vela. \n\nCaso feche na altura atual ou acima, o cruzamento deve acontecer (flecha Laranja). https://t.co/CZlx1oDCYV",
+      "edit_history_tweet_ids": [
+        "1798468126444765458"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 40,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 5592
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798468120769925465"
+        }
+      ],
+      "created_at": "2024-06-05T21:33:09.000Z",
+      "author_id": "14380292",
+      "id": "1798468123844387054",
+      "text": "Zoom para que possam ver mais detalhes desses 2 trades. https://t.co/NC6w6giCys",
+      "edit_history_tweet_ids": [
+        "1798468123844387054"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 37,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2532
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798468117896765603"
+        }
+      ],
+      "created_at": "2024-06-05T21:33:08.000Z",
+      "author_id": "14380292",
+      "id": "1798468120769925465",
+      "text": "A Pior performance nesse trade foi de 14% no cruzamento de 04/04/2016.\n\nA Melhor performance foi de 2300% no cruzamento de 12/11/2012.\n\nA performance M\u00c9DIA \u00e9 de 202%.\n\nVejam como TODOS os trades s\u00e3o bem-sucedidos, independente de mercado bullish ou bearish. https://t.co/Lm7Oy6hwKv",
+      "edit_history_tweet_ids": [
+        "1798468120769925465"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 35,
+        "quote_count": 2,
+        "bookmark_count": 3,
+        "impression_count": 3154
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1798468115409653812"
+        }
+      ],
+      "created_at": "2024-06-05T21:33:07.000Z",
+      "author_id": "14380292",
+      "id": "1798468117896765603",
+      "text": "Veja neste detalhe cada um dos 30 cruzamentos do RSI com a m\u00e9dia (flechas vermelhas). https://t.co/n6RwFrLkIh",
+      "edit_history_tweet_ids": [
+        "1798468117896765603"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1792
+      }
+    },
+    {
+      "created_at": "2024-06-05T21:33:07.000Z",
+      "author_id": "14380292",
+      "id": "1798468115409653812",
+      "text": "Vamos l\u00e1!\n\n$BTCUSD estrat\u00e9gia Semanal de Cruzamento do RSI:\n\nToda vez que o RSI cruza a m\u00e9dia (flechas vermelhas), o #Bitcoin dispara.\n\n100% dos cruzamentos at\u00e9 hoje produziram trades vencedores.\n\nEstamos a pouco mais de 4 dias de um potencial cruzamento. \n\nSeria o 31\u00ba at\u00e9 hoje. https://t.co/ZxlFXNVWkQ",
+      "edit_history_tweet_ids": [
+        "1798468115409653812"
+      ],
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 18,
+        "like_count": 251,
+        "quote_count": 1,
+        "bookmark_count": 74,
+        "impression_count": 35012
+      }
+    },
+    {
+      "created_at": "2024-06-04T01:10:50.000Z",
+      "author_id": "14380292",
+      "id": "1797798129703768345",
+      "text": "Toda brincadeira \u00e9 uma oportunidade de doutrinar seus filhos. Aproveite. \ud83d\ude02\n\n#whoisjohngalt https://t.co/0gsSYjKLsm",
+      "edit_history_tweet_ids": [
+        "1797798129703768345"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 117,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2470
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1797327280294809783"
+        }
+      ],
+      "created_at": "2024-06-03T20:57:29.000Z",
+      "author_id": "14380292",
+      "id": "1797734373971947637",
+      "text": "RT @bitdov: Boa tarde, @bitcoinheiros!\n\nSeed com poema? Totalmente offline? Airgap?\nQue feiti\u00e7aria \u00e9 essa?\n\nhttps://t.co/usMrfuJB7e\n\n#bitco\u2026",
+      "edit_history_tweet_ids": [
+        "1797734373971947637"
+      ],
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1797641570105360533"
+        }
+      ],
+      "created_at": "2024-06-03T14:59:31.000Z",
+      "author_id": "14380292",
+      "id": "1797644289079673012",
+      "text": "@crisinveste @BtcChicoFatal Cristiane, recomendo o canal @bitcoinheiros para voc\u00ea aprender sobre o que \u00e9 bitcoin e diversos assuntos t\u00e9cnicos.\n\nAcessa l\u00e1, tenho certeza que voc\u00ea vai gostar e aprender muito! Abra\u00e7o.",
+      "edit_history_tweet_ids": [
+        "1797644289079673012"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 7,
+        "like_count": 72,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1411
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1797303736592679134"
+        }
+      ],
+      "created_at": "2024-06-02T16:33:55.000Z",
+      "author_id": "14380292",
+      "id": "1797305654576824546",
+      "text": "@Aligheiton20 O ciclo tem 7 anos. Portanto o topo seria nos 2M USD EM 2029. \ud83d\ude02",
+      "edit_history_tweet_ids": [
+        "1797305654576824546"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 92
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1797073874993197241"
+        }
+      ],
+      "created_at": "2024-06-02T01:12:55.000Z",
+      "author_id": "14380292",
+      "id": "1797073877568532954",
+      "text": "No ciclo anterior, o bull run parab\u00f3lico (flecha Laranja) foi de 3155% (de $700 at\u00e9 $20K).\n\nO ciclo atual ajustado para a escala est\u00e1 dando 1300% at\u00e9 Maio de 2025 (de $67K at\u00e9 $800K). https://t.co/nFZCcB97YQ",
+      "edit_history_tweet_ids": [
+        "1797073877568532954"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 37,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1132
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1791582201672606146"
+        }
+      ],
+      "created_at": "2024-06-02T01:12:54.000Z",
+      "author_id": "14380292",
+      "id": "1797073874993197241",
+      "text": "Fechamos mais um m\u00eas e a semelhan\u00e7a com o ciclo anterior de 7ish anos est\u00e1 INACREDIT\u00c1VEL!\n\nA Flecha Laranja est\u00e1 em um ponto muito parecido no RSI do ciclo anterior. O momento atual seria equivalente a Outubro de 2016. https://t.co/N7drIMxxMO https://t.co/B2JpZXvxUp",
+      "edit_history_tweet_ids": [
+        "1797073874993197241"
+      ],
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 8,
+        "like_count": 118,
+        "quote_count": 2,
+        "bookmark_count": 18,
+        "impression_count": 12589
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1795103150862372986"
+        }
+      ],
+      "created_at": "2024-06-01T00:05:11.000Z",
+      "author_id": "14380292",
+      "id": "1796694444902850838",
+      "text": "Acabamos de fechar mais uma vela Mensal.\n\nO RSI fechou ainda sob a resist\u00eancia superior cr\u00edtica.\n\nEnquanto n\u00e3o fecharmos 1 m\u00eas acima dela, a flecha Azul continua sendo uma inc\u00f3gnita.\n\nVamos ficar de olho em Junho. \ud83d\udc40 https://t.co/eOeQwQXLjz https://t.co/LE4gIQTFsL",
+      "edit_history_tweet_ids": [
+        "1796694444902850838"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 58,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 2790
+      }
+    }
+  ],
+  "meta": {
+    "newest_id": "1807196037985280058",
+    "oldest_id": "1796694444902850838",
+    "result_count": 26
+  }
+}

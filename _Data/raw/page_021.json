@@ -1,0 +1,2396 @@
+{
+  "data": [
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974523994754908592"
+        }
+      ],
+      "created_at": "2025-10-04T17:41:37.000Z",
+      "in_reply_to_user_id": "84186992",
+      "id": "1974530359976251417",
+      "text": "@besouroverde09 ~120800",
+      "edit_history_tweet_ids": [
+        "1974530359976251417"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 185
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974267077516276197"
+        }
+      ],
+      "created_at": "2025-10-04T17:14:50.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974523616348995584"
+        ]
+      },
+      "id": "1974523620270768302",
+      "text": "GM!\n\n- Abaixo da M\u00e9dia do RSI \ud83d\udea8 \n\n- Abaixo da MA7 \ud83d\udea8 \n\n- Acima do Suporte Superior \n\n- Acima da EMA7\n\n- Acima da Dollinha\n\n- StochRSI quase zerado\n\nEsse setup normalmente sinaliza bear trap, pois apesar de abaixo das m\u00e9dias, n\u00e3o perdeu os suportes t\u00e9cnicos.\n\nBaliza na Dollinha. https://t.co/pv1Z30yyYH",
+      "edit_history_tweet_ids": [
+        "1974523620270768302"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 71,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2253
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974483477044048168"
+        }
+      ],
+      "created_at": "2025-10-04T15:27:28.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1974496598047801738",
+      "text": "@DollynhoCoin @txuintxunfly Exato. Eu s\u00f3 passei a considerar essa agulhada quando descobri a imprecis\u00e3o do plot do trading view.",
+      "edit_history_tweet_ids": [
+        "1974496598047801738"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 212
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974296356622827707"
+        }
+      ],
+      "created_at": "2025-10-04T02:18:36.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "id": "1974298073745797507",
+      "text": "@wild_bitcoin @NickSzabo4 \ud83e\udd23 ou seja, simulation confirmed! \u2705",
+      "edit_history_tweet_ids": [
+        "1974298073745797507"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 222
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974294008177573927"
+        }
+      ],
+      "created_at": "2025-10-04T02:05:10.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "id": "1974294692977390055",
+      "text": "@wild_bitcoin @NickSzabo4 Fiquei sabendo agora h\u00e1 pouco que um cara calculou a probabilidade de 3 agulhadas em 1 linha em 0.0000000125% \ud83d\ude42\ud83d\ude2e\u200d\ud83d\udca8",
+      "edit_history_tweet_ids": [
+        "1974294692977390055"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 196
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974292406687170899"
+        }
+      ],
+      "created_at": "2025-10-04T01:56:54.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "id": "1974292615194652933",
+      "text": "@wild_bitcoin Hahahaha me apresenta essa pessoa por favor! \ud83d\ude4f\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1974292615194652933"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 183
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974291565985329645"
+        }
+      ],
+      "created_at": "2025-10-04T01:53:28.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "id": "1974291752027881731",
+      "text": "@wild_bitcoin Sim, mas n\u00e3o d\u00e1 pra projetar isso, infelizmente.",
+      "edit_history_tweet_ids": [
+        "1974291752027881731"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 363
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974286127881183508"
+        }
+      ],
+      "created_at": "2025-10-04T01:40:09.000Z",
+      "in_reply_to_user_id": "1481632202920181763",
+      "id": "1974288399466156096",
+      "text": "@orenatotavares Estatisticamente n\u00e3o tem nada sinalizando bear.",
+      "edit_history_tweet_ids": [
+        "1974288399466156096"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 363
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1922506724021538987"
+        }
+      ],
+      "created_at": "2025-10-04T01:24:03.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1974283866388201472"
+        ]
+      },
+      "id": "1974284346829009392",
+      "text": "Atualiza\u00e7\u00e3o do Gr\u00e1fico da Vela de 12 dias:\n\n- Cruzamos por 1 vela abaixo do MACD, o que nos fez fechar um ciclo e abrir um novo ciclo logo em seguida. Com isso, formamos o 11\u00ba cruzamento!\n\n- Tivemos a menor aprecia\u00e7\u00e3o hist\u00f3rica at\u00e9 o topo do ciclo neste \u00faltimo run. Apenas 21.13%. https://t.co/zXx19NrxBl https://t.co/TS73uO9bfe",
+      "edit_history_tweet_ids": [
+        "1974284346829009392"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 13,
+        "like_count": 119,
+        "quote_count": 2,
+        "bookmark_count": 14,
+        "impression_count": 5927
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974269313411375380"
+        }
+      ],
+      "created_at": "2025-10-04T00:34:01.000Z",
+      "in_reply_to_user_id": "1618702741",
+      "id": "1974271754244898912",
+      "text": "@shiranuisolo \ud83e\udd23 tamb\u00e9m me emocionei",
+      "edit_history_tweet_ids": [
+        "1974271754244898912"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 121
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974268475410456718"
+        }
+      ],
+      "created_at": "2025-10-04T00:31:08.000Z",
+      "in_reply_to_user_id": "1481632202920181763",
+      "id": "1974271031151112657",
+      "text": "@orenatotavares O RSI fechou ACIMA da m\u00e9dia. No momento est\u00e1 abaixo, mas precisamos esperar essa vela fechar para sabermos.\n\nMA7 \u00e9 o suporte local. Se perder ela, deve confirmar abaixo da M\u00e9dia do RSI.\n\nPode muito bem ser bear trap pq como voc\u00ea falou, amanh\u00e3 \u00e9 S\u00e1bado.",
+      "edit_history_tweet_ids": [
+        "1974271031151112657"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 141
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974267070184632745"
+        }
+      ],
+      "created_at": "2025-10-04T00:15:26.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974267072994816000"
+        ]
+      },
+      "id": "1974267077516276197",
+      "text": "#Curtissimo \n\n- MA7 \u00e9 nosso suporte local, j\u00e1 que estamos acima da Dollinha.\n\n- RSI fechou ACIMA da m\u00e9dia! Ela \u00e9 nossa baliza nesta pr\u00f3xima vela, j\u00e1 que estamos tentando cruza-la.\n\n- StochRSI tamb\u00e9m fechou acima do Suporte Superior, apesar de estar tentando perder.\n\nAt\u00e9 Domingo https://t.co/srqbA0FdIo",
+      "edit_history_tweet_ids": [
+        "1974267077516276197"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 51,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1843
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1973905075996406070"
+        }
+      ],
+      "created_at": "2025-10-04T00:15:24.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1974267065658978305"
+        ]
+      },
+      "id": "1974267070184632745",
+      "text": "Log 293\n\n#Diario \n\n- CONFIRMOU a 11a Agulhada de ontem (n\u00e3o que eu achei que fosse anular, mas \u00e9 sempre bom esperar 1 dia para ter certeza \ud83d\ude05)\n\n- CONFIRMOU rompimento da Linha Roxa! Finalmente!\n\n- AINDA n\u00e3o tocamos a Resist\u00eancia Superior, e fechamos nos 69.01, o que significa que https://t.co/eVnLB8P9WI https://t.co/m850rBkRYs",
+      "edit_history_tweet_ids": [
+        "1974267070184632745"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 103,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 16527
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974248679436439664"
+        }
+      ],
+      "created_at": "2025-10-03T23:20:58.000Z",
+      "in_reply_to_user_id": "1481632202920181763",
+      "id": "1974253371218337923",
+      "text": "@orenatotavares Sim, exato. Mas \u00e9 raro perder a m\u00e9dia e n\u00e3o perder o suporte. A ver.",
+      "edit_history_tweet_ids": [
+        "1974253371218337923"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 104
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974161426463011306"
+        }
+      ],
+      "created_at": "2025-10-03T22:56:45.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974247274466406401"
+        ]
+      },
+      "id": "1974247277574435049",
+      "text": "M\u00e9dia do RSI est\u00e1 catching up e \u00e9 nosso suporte.\n\nMA7 tamb\u00e9m suporte \n\nLinha Amarela \u00e9 nosso desafio prim\u00e1rio no #curtissmo e o \u00faltimo passo para estourarmos o ATH, que deve romper junto com a linha Verde PET.\n\nStochRSI confirmado bullish acima do Suporte Superior.\n\nAt\u00e9 daqui 1h! https://t.co/93RLpZG5O4",
+      "edit_history_tweet_ids": [
+        "1974247277574435049"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1185
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974204919449366904"
+        }
+      ],
+      "created_at": "2025-10-03T20:16:19.000Z",
+      "in_reply_to_user_id": "1900804484",
+      "id": "1974206902805709075",
+      "text": "@edgardrj26 Estamos \ud83d\ude4f\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1974206902805709075"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 219
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974200438233690309"
+        }
+      ],
+      "created_at": "2025-10-03T19:53:15.000Z",
+      "in_reply_to_user_id": "45879226",
+      "id": "1974201098450973015",
+      "text": "@joaohornburg T\u00e1 tudo aqui: https://t.co/XIeCHjOP4K",
+      "edit_history_tweet_ids": [
+        "1974201098450973015"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 8,
+        "impression_count": 507
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974194367024992620"
+        }
+      ],
+      "created_at": "2025-10-03T19:29:45.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1974195186566902150",
+      "text": "@AleFigliolia Eu acompanho, mas n\u00e3o tenho opini\u00e3o formada. hahaha",
+      "edit_history_tweet_ids": [
+        "1974195186566902150"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 108
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974192722572611885"
+        }
+      ],
+      "created_at": "2025-10-03T19:23:49.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1974193693143015607",
+      "text": "@AleFigliolia N\u00e3o. Zero correla\u00e7\u00e3o.",
+      "edit_history_tweet_ids": [
+        "1974193693143015607"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 109
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1974145993991205232"
+        }
+      ],
+      "created_at": "2025-10-03T19:16:33.000Z",
+      "id": "1974191864074080369",
+      "text": "RT @raicher: Bom dia, iniciante\u2122!\n\nMelhor sentar para acompanhar essa an\u00e1lise.\n\nH\u00e1 um bom tempo voc\u00eas me escutam falar sobre a Linha R\u2026",
+      "edit_history_tweet_ids": [
+        "1974191864074080369"
+      ],
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974181463215219072"
+        }
+      ],
+      "created_at": "2025-10-03T18:53:47.000Z",
+      "in_reply_to_user_id": "1882184172053151744",
+      "id": "1974186134340317511",
+      "text": "@Gabriels1707 Se depois do meu post de hoje voc\u00ea continua acreditando em coincid\u00eancias, melhor procurar um psiquiatra.",
+      "edit_history_tweet_ids": [
+        "1974186134340317511"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 114
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974180540350931127"
+        }
+      ],
+      "created_at": "2025-10-03T18:32:40.000Z",
+      "in_reply_to_user_id": "1882184172053151744",
+      "id": "1974180817787367665",
+      "text": "@Gabriels1707 Minha posi\u00e7\u00e3o para este trade ja est\u00e1 aberta h\u00e1 1 Semana justamente esperando esse fato.",
+      "edit_history_tweet_ids": [
+        "1974180817787367665"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 143
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974174013636157815"
+        }
+      ],
+      "created_at": "2025-10-03T18:29:20.000Z",
+      "in_reply_to_user_id": "1777090844744417281",
+      "id": "1974179978628808977",
+      "text": "@EduardoMelloAF @EQM888 Pode considerar.",
+      "edit_history_tweet_ids": [
+        "1974179978628808977"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 90
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974170007132364975"
+        }
+      ],
+      "created_at": "2025-10-03T18:28:51.000Z",
+      "in_reply_to_user_id": "1046221823325671424",
+      "id": "1974179857073639658",
+      "text": "@ateoriadosonho Pode chamar como quiser. \u00c9 tudo a mesma coisa.",
+      "edit_history_tweet_ids": [
+        "1974179857073639658"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 525
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974168649943691387"
+        }
+      ],
+      "created_at": "2025-10-03T17:48:40.000Z",
+      "in_reply_to_user_id": "53458741",
+      "id": "1974169747634991220",
+      "text": "@ggoleta @EQM888 Ou voc\u00ea se diverte, ou usa alavancagem.",
+      "edit_history_tweet_ids": [
+        "1974169747634991220"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 110
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974167672209441068"
+        }
+      ],
+      "created_at": "2025-10-03T17:43:06.000Z",
+      "in_reply_to_user_id": "1777090844744417281",
+      "id": "1974168346976497891",
+      "text": "@EduardoMelloAF @EQM888 Todos os eixos s\u00e3o ascendentes, mas tivemos corre\u00e7\u00f5es (4 pra ser exato) imediatamente ap\u00f3s a agulhada 2, 3, 8 e 10.",
+      "edit_history_tweet_ids": [
+        "1974168346976497891"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 121
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974167177294233718"
+        }
+      ],
+      "created_at": "2025-10-03T17:40:23.000Z",
+      "in_reply_to_user_id": "982046587722584067",
+      "id": "1974167660163445246",
+      "text": "@glcr93 N\u00e3o vou parar de procurar esses padr\u00f5es e de postar esses gr\u00e1ficos.\n\nS\u00f3 vou parar de postar o gr\u00e1fico curt\u00edssimo.",
+      "edit_history_tweet_ids": [
+        "1974167660163445246"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 219
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974166079120531578"
+        }
+      ],
+      "created_at": "2025-10-03T17:34:51.000Z",
+      "in_reply_to_user_id": "1777090844744417281",
+      "id": "1974166270435340483",
+      "text": "@EduardoMelloAF @EQM888 Sim",
+      "edit_history_tweet_ids": [
+        "1974166270435340483"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 183
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974165912271179970"
+        }
+      ],
+      "created_at": "2025-10-03T17:34:32.000Z",
+      "in_reply_to_user_id": "1767694216954605568",
+      "attachments": {
+        "media_keys": [
+          "16_1974166185462890497"
+        ]
+      },
+      "id": "1974166191238492364",
+      "text": "@AKverdade https://t.co/463PxuDlDE",
+      "edit_history_tweet_ids": [
+        "1974166191238492364"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 559
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974165862170132627"
+        }
+      ],
+      "created_at": "2025-10-03T17:33:41.000Z",
+      "in_reply_to_user_id": "1318318596",
+      "id": "1974165974648868967",
+      "text": "@daniel_ffreit 120,468",
+      "edit_history_tweet_ids": [
+        "1974165974648868967"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 185
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974165061876003100"
+        }
+      ],
+      "created_at": "2025-10-03T17:33:18.000Z",
+      "in_reply_to_user_id": "49126838",
+      "id": "1974165877378691096",
+      "text": "@alvarograssi N\u00e3o sei, mas consigo.",
+      "edit_history_tweet_ids": [
+        "1974165877378691096"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 132
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974164948218679781"
+        }
+      ],
+      "created_at": "2025-10-03T17:32:47.000Z",
+      "in_reply_to_user_id": "768434308163989504",
+      "id": "1974165748781326610",
+      "text": "@iEvertn Depois da descoberta de hoje, amigo, tudo \u00e9 poss\u00edvel.",
+      "edit_history_tweet_ids": [
+        "1974165748781326610"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 204
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974164445862777052"
+        }
+      ],
+      "created_at": "2025-10-03T17:28:00.000Z",
+      "in_reply_to_user_id": "1612634051579461632",
+      "id": "1974164546316370330",
+      "text": "@EQM888 Podia mesmo?",
+      "edit_history_tweet_ids": [
+        "1974164546316370330"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 124
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974161426463011306"
+        }
+      ],
+      "created_at": "2025-10-03T17:27:37.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974164444654809088"
+        ]
+      },
+      "id": "1974164448664543399",
+      "text": "Por algum motivo as legendas n\u00e3o foram. T\u00e1 a\u00ed.\n\n#log https://t.co/GJllEJGeDq",
+      "edit_history_tweet_ids": [
+        "1974164448664543399"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 8,
+        "like_count": 50,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1475
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974163708428628421"
+        }
+      ],
+      "created_at": "2025-10-03T17:26:16.000Z",
+      "in_reply_to_user_id": "1612634051579461632",
+      "id": "1974164108309303516",
+      "text": "@EQM888 Have fun staying poor",
+      "edit_history_tweet_ids": [
+        "1974164108309303516"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 196
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974163244576354613"
+        }
+      ],
+      "created_at": "2025-10-03T17:25:44.000Z",
+      "in_reply_to_user_id": "1797667412625547270",
+      "id": "1974163973525455016",
+      "text": "@GokuCoinMaster @machobitcoin_ \ud83e\udd23",
+      "edit_history_tweet_ids": [
+        "1974163973525455016"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 97
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973988688574247357"
+        }
+      ],
+      "created_at": "2025-10-03T17:15:36.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974161422432313344"
+        ]
+      },
+      "id": "1974161426463011306",
+      "text": "QED! Tava \u00f3timo mesmo!\n\nS\u00f3 paramos na linha Verdinha PET que une a agulhada de 31/01/2025 com a de 29/07/2025.\n\n\ud83e\udd29\n\nAinda estou em choque com a descoberta da 3\u00aa coincid\u00eancia mais improv\u00e1vel da hist\u00f3ria da simula\u00e7\u00e3o, portanto n\u00e3o estou dando muita import\u00e2ncia para o pre\u00e7o do https://t.co/NdglpyZHkZ",
+      "edit_history_tweet_ids": [
+        "1974161426463011306"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 63,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2507
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974157865096265931"
+        }
+      ],
+      "created_at": "2025-10-03T17:02:49.000Z",
+      "in_reply_to_user_id": "1350253483740508165",
+      "id": "1974158206952968671",
+      "text": "@texugodomelbtc1 Cara, sei l\u00e1. \u00c0s vezes tem um f\u00edsico qu\u00e2ntico por a\u00ed que consegue juntar as pe\u00e7as e corroborar com a tese da impossibilidade disso acontecer pela 3\u00aa vez.\n\nEu estou quase surtando.",
+      "edit_history_tweet_ids": [
+        "1974158206952968671"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 227
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974156943842554333"
+        }
+      ],
+      "created_at": "2025-10-03T17:01:20.000Z",
+      "in_reply_to_user_id": "1612634051579461632",
+      "id": "1974157834251391061",
+      "text": "@EQM888 Considerando que a Agulhada \u00e9 o ponto de menor volatilidade da trend, \u00e9 esperado que exploda pra cima ou pra baixo depois dela aparecer.",
+      "edit_history_tweet_ids": [
+        "1974157834251391061"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 309
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974156321772745035"
+        }
+      ],
+      "created_at": "2025-10-03T16:58:26.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1974157105172263182",
+      "text": "@DollynhoCoin Cara, vou tomar um calmante. N\u00e3o to aguentando.",
+      "edit_history_tweet_ids": [
+        "1974157105172263182"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 335
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974156728024359315"
+        }
+      ],
+      "created_at": "2025-10-03T16:57:43.000Z",
+      "in_reply_to_user_id": "1829632080583520257",
+      "id": "1974156926134202752",
+      "text": "@lou47217 @bitminer_fun @EduardoMelloAF @grok Pelo menos voc\u00ea tem dinheiro pra comprar esse MacAllan",
+      "edit_history_tweet_ids": [
+        "1974156926134202752"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 77
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974155461458079987"
+        }
+      ],
+      "created_at": "2025-10-03T16:53:36.000Z",
+      "in_reply_to_user_id": "1829632080583520257",
+      "id": "1974155887347707986",
+      "text": "@lou47217 @bitminer_fun @EduardoMelloAF @grok Mas ser\u00e1 que isso realmente importa? O que \u00e9 o lucro num cen\u00e1rio em que nada \u00e9 aleat\u00f3rio e nada importa de verdade?",
+      "edit_history_tweet_ids": [
+        "1974155887347707986"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 116
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974153321905828076"
+        }
+      ],
+      "created_at": "2025-10-03T16:45:09.000Z",
+      "in_reply_to_user_id": "1919525306274349056",
+      "id": "1974153763763138806",
+      "text": "@bitminer_fun @EduardoMelloAF @grok Bicho. Eu te falei. Conheci o Bitcoin em 2010 e n\u00e3o fiquei t\u00e3o chocado quanto agora depois de ver a 3\u00aa coincid\u00eancia mais improv\u00e1vel da hist\u00f3ria.\n\nEstou at\u00e9 com tremedeira.",
+      "edit_history_tweet_ids": [
+        "1974153763763138806"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 203
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974151903530659891"
+        }
+      ],
+      "created_at": "2025-10-03T16:40:41.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1974152637944918421",
+      "text": "@DollynhoCoin Yep",
+      "edit_history_tweet_ids": [
+        "1974152637944918421"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 279
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974146000865669573"
+        }
+      ],
+      "created_at": "2025-10-03T16:14:19.000Z",
+      "in_reply_to_user_id": "14380292",
+      "id": "1974146003369681378",
+      "text": "A\u00ed voc\u00ea me pergunta: Raixe, mas o que isso significa?\n\nE eu respondo: N\u00c3O FA\u00c7O A MENOR IDEIA!\n\nAlgu\u00e9m poderia me ajudar a descobrir? Voc\u00eas tem o telefone do dono dessa Simula\u00e7\u00e3o? \ud83d\ude33",
+      "edit_history_tweet_ids": [
+        "1974146003369681378"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 27,
+        "like_count": 85,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2276
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974145997359231413"
+        }
+      ],
+      "created_at": "2025-10-03T16:14:19.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974144713524715520"
+        ]
+      },
+      "id": "1974146000865669573",
+      "text": "Mas e se eu te dissesse que com a Agulhada que registramos nesse Di\u00e1rio de 03/10/2025 a gente REPETIU A COINCID\u00caNCIA PELA 3\u00aa VEZ?\n\nPQP. \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\n\nEu ainda n\u00e3o entendo como isso pode estar acontecendo. Isso n\u00e3o aconteceu em nenhum outro intervalo nenhuma outra vez. https://t.co/6YlERZx5VE",
+      "edit_history_tweet_ids": [
+        "1974146000865669573"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 63,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 2530
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974145993991205232"
+        }
+      ],
+      "created_at": "2025-10-03T16:14:18.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1974143300165906436"
+        ]
+      },
+      "id": "1974145997359231413",
+      "text": "Se 1 linha com 3 \"coincid\u00eancias\" \u00e9 infinitamente improv\u00e1vel, o que voc\u00ea faria se soubesse que temos MAIS UM exemplo exatamente igual, na linha Branca?\n\nNeste caso espec\u00edfico, a agulhada coincidente aconteceu ANTES do 1\u00ba eixo ser descoberto.\n\nAgulhada coincidente: 10/07/2020 https://t.co/Kc0GSrz6Ew",
+      "edit_history_tweet_ids": [
+        "1974145997359231413"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 56,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1817
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1894907047860412905"
+        }
+      ],
+      "created_at": "2025-10-03T16:14:17.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1974142873303199750"
+        ]
+      },
+      "id": "1974145993991205232",
+      "text": "Bom dia, iniciante\u2122!\n\nMelhor sentar para acompanhar essa an\u00e1lise.\n\nH\u00e1 um bom tempo voc\u00eas me escutam falar sobre a Linha Roxa do Di\u00e1rio. \n\nO motivo de eu consider\u00e1-la a mais importante trend line desse intervalo \u00e9 o fato de ter sido a dire\u00e7\u00e3o mais consistente por mais tempo at\u00e9 https://t.co/si6ujP5XeD https://t.co/qqfSyBRx7L",
+      "edit_history_tweet_ids": [
+        "1974145993991205232"
+      ],
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 17,
+        "like_count": 156,
+        "quote_count": 0,
+        "bookmark_count": 37,
+        "impression_count": 11634
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974098541292499205"
+        }
+      ],
+      "created_at": "2025-10-03T15:45:08.000Z",
+      "in_reply_to_user_id": "3116395768",
+      "id": "1974138659189445109",
+      "text": "@RazaboniLeandro Sim. Vou trabalhar nisso.",
+      "edit_history_tweet_ids": [
+        "1974138659189445109"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 156
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1974101499027599423"
+        }
+      ],
+      "created_at": "2025-10-03T15:44:48.000Z",
+      "in_reply_to_user_id": "3116395768",
+      "id": "1974138573571194992",
+      "text": "@RazaboniLeandro @bitdov J\u00e1 chegou \ud83d\ude42",
+      "edit_history_tweet_ids": [
+        "1974138573571194992"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 121
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973905079699980462"
+        }
+      ],
+      "created_at": "2025-10-03T05:49:12.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1973988683830472704"
+        ]
+      },
+      "id": "1973988688574247357",
+      "text": "Particularmente satisfeito com esse fechamento pois apesar de estarmos levemente abaixo da Dollinha (que \u00e9 uma trend secundaria), pudemos:\n\n- Esfriar o RSI sem perder o Suporte Superior\n\n- Sem perder a m\u00e9dia do RSI\n\n- Sem perder a linha Vermelha \n\n- Sem perder a MA7\n\n- Sem perder https://t.co/SX0SzUgZqm",
+      "edit_history_tweet_ids": [
+        "1973988688574247357"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 7,
+        "like_count": 51,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1827
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973948609692643389"
+        }
+      ],
+      "created_at": "2025-10-03T03:22:15.000Z",
+      "in_reply_to_user_id": "75038244",
+      "id": "1973951705156100199",
+      "text": "@NikovOwlmask @orenatotavares @CHRISHILGEM @DollynhoCoin @txuintxunfly Declara\u00e7\u00f5es de amor heterossexuais. \ud83d\ude05",
+      "edit_history_tweet_ids": [
+        "1973951705156100199"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 111
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973945772048871758"
+        }
+      ],
+      "created_at": "2025-10-03T03:00:51.000Z",
+      "in_reply_to_user_id": "1797667412625547270",
+      "id": "1973946319879508124",
+      "text": "@GokuCoinMaster @orenatotavares @CHRISHILGEM @DollynhoCoin @txuintxunfly Aeeee j\u00e1 temos um!",
+      "edit_history_tweet_ids": [
+        "1973946319879508124"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 91
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973940812410228873"
+        }
+      ],
+      "created_at": "2025-10-03T02:42:18.000Z",
+      "in_reply_to_user_id": "1481632202920181763",
+      "id": "1973941652713845068",
+      "text": "@orenatotavares @CHRISHILGEM @DollynhoCoin @txuintxunfly Com todos os sinais que eu j\u00e1 passei aqui pra voc\u00eas, no m\u00ednimo voc\u00eas deveriam comprar as casas vizinhas para estabelecermos a nova Atlantida.",
+      "edit_history_tweet_ids": [
+        "1973941652713845068"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 162
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973935682608681237"
+        }
+      ],
+      "created_at": "2025-10-03T02:20:09.000Z",
+      "in_reply_to_user_id": "1481632202920181763",
+      "id": "1973936079507218576",
+      "text": "@orenatotavares @DollynhoCoin @CHRISHILGEM @txuintxunfly To de olho em uma mans\u00e3o de frente pro Tahoe. Vamos fazer um encontro anual de ski + trade quando rolar.",
+      "edit_history_tweet_ids": [
+        "1973936079507218576"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 138
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973914992270569507"
+        }
+      ],
+      "created_at": "2025-10-03T02:19:01.000Z",
+      "in_reply_to_user_id": "75038244",
+      "id": "1973935791606059190",
+      "text": "@NikovOwlmask Eles podem simplesmente reprecificar as reservas e comprar bitcoin com a diferen\u00e7a.",
+      "edit_history_tweet_ids": [
+        "1973935791606059190"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 110
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973934530752094266"
+        }
+      ],
+      "created_at": "2025-10-03T02:15:52.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973934999918555212",
+      "text": "@CHRISHILGEM @AleFigliolia @txuintxunfly @DollynhoCoin Good ol\u2019times",
+      "edit_history_tweet_ids": [
+        "1973934999918555212"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 65
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973931038109020286"
+        }
+      ],
+      "created_at": "2025-10-03T02:01:06.000Z",
+      "in_reply_to_user_id": "1476928626171990018",
+      "id": "1973931282498523443",
+      "text": "@txuintxunfly Vou ter que ver daqui a pouco (to longe do PC)",
+      "edit_history_tweet_ids": [
+        "1973931282498523443"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 78
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973930024542814314"
+        }
+      ],
+      "created_at": "2025-10-03T01:58:20.000Z",
+      "in_reply_to_user_id": "1902894227912265730",
+      "id": "1973930586491531414",
+      "text": "@nixkwi @DollynhoCoin @CHRISHILGEM @txuintxunfly \ud83e\udd70 maravilhoso",
+      "edit_history_tweet_ids": [
+        "1973930586491531414"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 96
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973925717441380491"
+        }
+      ],
+      "created_at": "2025-10-03T01:48:28.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1973928104533110993",
+      "text": "@AleFigliolia @CHRISHILGEM @txuintxunfly @DollynhoCoin \ud83e\udd23 realmente acho que n\u00e3o escreveram",
+      "edit_history_tweet_ids": [
+        "1973928104533110993"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 58
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973925683891204464"
+        }
+      ],
+      "created_at": "2025-10-03T01:47:52.000Z",
+      "in_reply_to_user_id": "1476928626171990018",
+      "id": "1973927952820924585",
+      "text": "@txuintxunfly @CHRISHILGEM @DollynhoCoin Nah. Pra que?",
+      "edit_history_tweet_ids": [
+        "1973927952820924585"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 68
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973925629499519005"
+        }
+      ],
+      "created_at": "2025-10-03T01:47:23.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1973927830494064816",
+      "text": "@DollynhoCoin @CHRISHILGEM @txuintxunfly Nunca fui ganancioso. J\u00e1 t\u00e1 bom assim. Nem tenho o que comprar.",
+      "edit_history_tweet_ids": [
+        "1973927830494064816"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 183
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973925135489867824"
+        }
+      ],
+      "created_at": "2025-10-03T01:42:03.000Z",
+      "in_reply_to_user_id": "3167416577",
+      "id": "1973926490833379667",
+      "text": "@dclazzaro @DollynhoCoin @CHRISHILGEM @txuintxunfly \ud83e\udd70\ud83d\ude4f\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1973926490833379667"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 108
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973925006657638491"
+        }
+      ],
+      "created_at": "2025-10-03T01:41:17.000Z",
+      "in_reply_to_user_id": "1859009118117220352",
+      "attachments": {
+        "media_keys": [
+          "16_1973926292216336384"
+        ]
+      },
+      "id": "1973926298025406504",
+      "text": "@extremistabtc @DollynhoCoin @CHRISHILGEM @txuintxunfly \u201cAgora sou s\u00f3 sua\u201d https://t.co/6Y5kL0uDYI",
+      "edit_history_tweet_ids": [
+        "1973926298025406504"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 98
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973924810163134859"
+        }
+      ],
+      "created_at": "2025-10-03T01:40:40.000Z",
+      "in_reply_to_user_id": "1859009118117220352",
+      "id": "1973926142680985767",
+      "text": "@extremistabtc @CHRISHILGEM @txuintxunfly @DollynhoCoin Asperger \ud83d\ude2e\u200d\ud83d\udca8\ud83d\ude05",
+      "edit_history_tweet_ids": [
+        "1973926142680985767"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 68
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973923567747162353"
+        }
+      ],
+      "created_at": "2025-10-03T01:38:26.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973925580082196680",
+      "text": "@CHRISHILGEM @AleFigliolia @txuintxunfly @DollynhoCoin 2002 n\u00e3o tinha BTC \ud83d\ude05",
+      "edit_history_tweet_ids": [
+        "1973925580082196680"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 63
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973922613153182176"
+        }
+      ],
+      "created_at": "2025-10-03T01:36:01.000Z",
+      "in_reply_to_user_id": "1882184172053151744",
+      "id": "1973924970993758237",
+      "text": "@Gabriels1707 @extremistabtc @CHRISHILGEM @txuintxunfly @DollynhoCoin https://t.co/Ct6cBpINhr\n\nVou pensar \ud83d\ude05",
+      "edit_history_tweet_ids": [
+        "1973924970993758237"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 127
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973921183763464282"
+        }
+      ],
+      "created_at": "2025-10-03T01:35:12.000Z",
+      "in_reply_to_user_id": "1882184172053151744",
+      "id": "1973924767452574129",
+      "text": "@Gabriels1707 @AleFigliolia @extremistabtc @DollynhoCoin @R38TAO Veremos \ud83d\ude05",
+      "edit_history_tweet_ids": [
+        "1973924767452574129"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 48
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973920796709195928"
+        }
+      ],
+      "created_at": "2025-10-03T01:34:43.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1973924641912889726",
+      "text": "@DollynhoCoin @CHRISHILGEM @txuintxunfly Entende por que eu preciso parar? N\u00e3o tem fim isso.",
+      "edit_history_tweet_ids": [
+        "1973924641912889726"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 212
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973920383716765704"
+        }
+      ],
+      "created_at": "2025-10-03T01:32:45.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973924147379228697",
+      "text": "@CHRISHILGEM @txuintxunfly @DollynhoCoin \ud83e\udd79\ud83d\ude4f\ud83c\udffb obrigado",
+      "edit_history_tweet_ids": [
+        "1973924147379228697"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 51
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973923558612218035"
+        }
+      ],
+      "created_at": "2025-10-03T01:31:40.000Z",
+      "in_reply_to_user_id": "1882184172053151744",
+      "id": "1973923875470913816",
+      "text": "@Gabriels1707 @CHRISHILGEM @txuintxunfly @DollynhoCoin \ud83e\udd23",
+      "edit_history_tweet_ids": [
+        "1973923875470913816"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 46
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973919413477732541"
+        }
+      ],
+      "created_at": "2025-10-03T01:29:20.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1973923290994585607",
+      "text": "@AleFigliolia @CHRISHILGEM @txuintxunfly @DollynhoCoin \ud83d\ude05 obrigado pelo elogio disfar\u00e7ado",
+      "edit_history_tweet_ids": [
+        "1973923290994585607"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 59
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973918964104253444"
+        }
+      ],
+      "created_at": "2025-10-03T01:13:09.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1973919217318863154",
+      "text": "@AleFigliolia @extremistabtc @DollynhoCoin @R38TAO \ud83e\udd79\ud83e\udef6\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1973919217318863154"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 89
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973918627545125015"
+        }
+      ],
+      "created_at": "2025-10-03T01:12:02.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973918934429806874",
+      "text": "@CHRISHILGEM @txuintxunfly @DollynhoCoin J\u00e1 pensei, mas nem sei sobre o que eu poderia escrever que j\u00e1 n\u00e3o tenham feito ainda.",
+      "edit_history_tweet_ids": [
+        "1973918934429806874"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 68
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973917939083399253"
+        }
+      ],
+      "created_at": "2025-10-03T01:09:58.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1973918414407401773",
+      "text": "@AleFigliolia @CHRISHILGEM @txuintxunfly @DollynhoCoin Anos. Comecei em 1997.",
+      "edit_history_tweet_ids": [
+        "1973918414407401773"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 87
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973917791616196999"
+        }
+      ],
+      "created_at": "2025-10-03T01:09:21.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973918261315276805",
+      "text": "@CHRISHILGEM @txuintxunfly @DollynhoCoin Eu definitivamente vou parar de operar pra mim tamb\u00e9m.\n\nA ideia de publicar o log foi devido ao fato de que eu J\u00c1 fazia o log antes, mas n\u00e3o mostrava pra ningu\u00e9m. \n\nEu loguei todas as velas do Bitcoin desde a 1\u00aa at\u00e9 hoje.",
+      "edit_history_tweet_ids": [
+        "1973918261315276805"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 181
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973917170699514299"
+        }
+      ],
+      "created_at": "2025-10-03T01:07:32.000Z",
+      "in_reply_to_user_id": "58996013",
+      "id": "1973917804136182112",
+      "text": "@AleFigliolia @extremistabtc @DollynhoCoin @R38TAO \ud83e\udd23 eu n\u00e3o disse que iria sumir, apenas vou parar o log de curt\u00edssimo prazo",
+      "edit_history_tweet_ids": [
+        "1973917804136182112"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 105
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973915922675962302"
+        }
+      ],
+      "created_at": "2025-10-03T01:06:57.000Z",
+      "in_reply_to_user_id": "1612634051579461632",
+      "id": "1973917655762645025",
+      "text": "@EQM888 Demais \ud83d\ude4c\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1973917655762645025"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 185
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973915800240026021"
+        }
+      ],
+      "created_at": "2025-10-03T01:06:42.000Z",
+      "in_reply_to_user_id": "1859009118117220352",
+      "id": "1973917592705528301",
+      "text": "@extremistabtc @CHRISHILGEM @txuintxunfly @DollynhoCoin Pode ter certeza que eu penso nisso o tempo todo. E se eu for fazer algo diferente vai ser bem melhor e mais interessante do que o que eu fa\u00e7o hoje em dia. \ud83d\ude4f\ud83c\udffb",
+      "edit_history_tweet_ids": [
+        "1973917592705528301"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 81
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973913373344399687"
+        }
+      ],
+      "created_at": "2025-10-03T00:50:27.000Z",
+      "in_reply_to_user_id": "464236610",
+      "id": "1973913503598813214",
+      "text": "@andrenogueira85 @txuintxunfly @DollynhoCoin \ud83e\udd79\ud83d\ude4f\ud83c\udffb\ud83e\ude75",
+      "edit_history_tweet_ids": [
+        "1973913503598813214"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 107
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973911811314630900"
+        }
+      ],
+      "created_at": "2025-10-03T00:49:47.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973913333972799803",
+      "text": "@CHRISHILGEM @txuintxunfly @DollynhoCoin Hahaha mas a inten\u00e7\u00e3o \u00e9 me aposentar da carreira de trader mesmo \ud83d\ude05\n\n28 fazendo isso, bicho. Preciso cuidar da sa\u00fade \ud83d\ude2e\u200d\ud83d\udca8",
+      "edit_history_tweet_ids": [
+        "1973913333972799803"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 134
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973909798195229054"
+        }
+      ],
+      "created_at": "2025-10-03T00:43:22.000Z",
+      "in_reply_to_user_id": "1859009118117220352",
+      "id": "1973911719945888038",
+      "text": "@extremistabtc @DollynhoCoin Vou tentar",
+      "edit_history_tweet_ids": [
+        "1973911719945888038"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 70
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973909625251770721"
+        }
+      ],
+      "created_at": "2025-10-03T00:42:55.000Z",
+      "in_reply_to_user_id": "1167128163723501576",
+      "id": "1973911607022662063",
+      "text": "@uou_derico @txuintxunfly @DollynhoCoin https://t.co/Ct6cBpINhr\n\nHoje em dia ele s\u00f3 replica os posts do X, mas tem um extenso hist\u00f3rico l\u00e1",
+      "edit_history_tweet_ids": [
+        "1973911607022662063"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 180
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973909368891433369"
+        }
+      ],
+      "created_at": "2025-10-03T00:34:36.000Z",
+      "in_reply_to_user_id": "1519472764041805832",
+      "id": "1973909514316624303",
+      "text": "@lt_ghost_skull Pergunta para os anjos \ud83d\ude02",
+      "edit_history_tweet_ids": [
+        "1973909514316624303"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 75
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973908586104287443"
+        }
+      ],
+      "created_at": "2025-10-03T00:33:56.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "attachments": {
+        "media_keys": [
+          "16_1973909342715064324"
+        ]
+      },
+      "id": "1973909348620644471",
+      "text": "@wild_bitcoin \ud83d\ude42 https://t.co/vfABDVDDIZ",
+      "edit_history_tweet_ids": [
+        "1973909348620644471"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 158
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973908492189630873"
+        }
+      ],
+      "created_at": "2025-10-03T00:32:31.000Z",
+      "in_reply_to_user_id": "1859009118117220352",
+      "id": "1973908989596610943",
+      "text": "@extremistabtc @DollynhoCoin Vou fazer um tutorial antes de parar o log 343. Vai ajudar bastante (espero).",
+      "edit_history_tweet_ids": [
+        "1973908989596610943"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 180
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973908395838116347"
+        }
+      ],
+      "created_at": "2025-10-03T00:31:54.000Z",
+      "in_reply_to_user_id": "1318318596",
+      "id": "1973908833857904891",
+      "text": "@daniel_ffreit Entrar onde, rap\u00e1",
+      "edit_history_tweet_ids": [
+        "1973908833857904891"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 299
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973908142053339171"
+        }
+      ],
+      "created_at": "2025-10-03T00:31:31.000Z",
+      "in_reply_to_user_id": "1017475144338558976",
+      "id": "1973908740824084733",
+      "text": "@RafaelGDS_ Obrigado! \u00c9 um prazer!\ud83d\ude42",
+      "edit_history_tweet_ids": [
+        "1973908740824084733"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 163
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973907879481553065"
+        }
+      ],
+      "created_at": "2025-10-03T00:30:12.000Z",
+      "in_reply_to_user_id": "1476928626171990018",
+      "id": "1973908408018624528",
+      "text": "@txuintxunfly @DollynhoCoin Eu fa\u00e7o posts p\u00fablicos diariamente desde 2016 pelo menos (no Telegram). Aqui no X h\u00e1 292 dias.",
+      "edit_history_tweet_ids": [
+        "1973908408018624528"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 248
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973906719051788392"
+        }
+      ],
+      "created_at": "2025-10-03T00:27:14.000Z",
+      "in_reply_to_user_id": "1601809754208223233",
+      "id": "1973907659247198641",
+      "text": "@wild_bitcoin Eu acompanho voc\u00ea me acompanhando faz tempo! Obrigado! \u00c9 um prazer poder contribuir com um pouco de positividade aqui nessa bagun\u00e7a!",
+      "edit_history_tweet_ids": [
+        "1973907659247198641"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 316
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973906308802744556"
+        }
+      ],
+      "created_at": "2025-10-03T00:26:23.000Z",
+      "in_reply_to_user_id": "1624466711066865664",
+      "id": "1973907447476838595",
+      "text": "@bitmaximalista Jeans grassa",
+      "edit_history_tweet_ids": [
+        "1973907447476838595"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 146
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973906155127595097"
+        }
+      ],
+      "created_at": "2025-10-03T00:26:12.000Z",
+      "in_reply_to_user_id": "1815894873125576704",
+      "id": "1973907401511448763",
+      "text": "@DollynhoCoin Agora especialmente eu estou pensando em me aposentar! 292 de 365... aproveite!",
+      "edit_history_tweet_ids": [
+        "1973907401511448763"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 431
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973905719398425081"
+        }
+      ],
+      "created_at": "2025-10-03T00:25:44.000Z",
+      "in_reply_to_user_id": "288915352",
+      "id": "1973907285299863703",
+      "text": "@CHRISHILGEM @ysabuzon @raicher Precisei tirar para comemorar",
+      "edit_history_tweet_ids": [
+        "1973907285299863703"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 97
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973905075996406070"
+        }
+      ],
+      "created_at": "2025-10-03T00:16:59.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1973903892019884036",
+          "3_1973903892095328256"
+        ]
+      },
+      "id": "1973905079699980462",
+      "text": "#Curtissimo\n\n343 minutos:\n\n- CONFIRMADO rompimento da Dollinha! Agora temos ela como Suporte imediato e a linha Amarela acima (\u02dc122.9K) como pr\u00f3xima Resist\u00eancia.\n\n- Tecnicamente ainda temos espa\u00e7o at\u00e9 a resist\u00eancia hist\u00f3rica de 90.31 desse intervalo... o que significa que \u00e9 https://t.co/jxKgC6JECp",
+      "edit_history_tweet_ids": [
+        "1973905079699980462"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 63,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2292
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1973541812959936549"
+        }
+      ],
+      "created_at": "2025-10-03T00:16:58.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1973903347213348865"
+        ]
+      },
+      "id": "1973905075996406070",
+      "text": "Log 292 / 365\n\n11\u00aa AGULHADA CL\u00c1SSICA DA HIST\u00d3RIA DO #DIARIO!\n\nQue dia, iniciantes\u2122! Estamos vivendo a hist\u00f3ria ao vivo!\n\nEstamos no cen\u00e1rio IDEAL que eu mencionei no log de ontem:\n\n- Fechamos ACIMA da Linha ROXA (trendline mais importante desse intervalo)! INACREDIT\u00c1VEL!\n\n- https://t.co/n4Ku1T9xzv https://t.co/BwEo4W7YfU",
+      "edit_history_tweet_ids": [
+        "1973905075996406070"
+      ],
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 14,
+        "like_count": 158,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 15898
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973896809476137082"
+        }
+      ],
+      "created_at": "2025-10-02T23:48:15.000Z",
+      "in_reply_to_user_id": "1950716892626219008",
+      "id": "1973897849881698605",
+      "text": "@ysabuzon @raicher Normalmente apenas de cueca e rolex.\n\nCom rela\u00e7\u00e3o \u00e0 agulhada, eu n\u00e3o opero diretamente. A 1\u00aa coisa que eu fa\u00e7o \u00e9 procurar as trends ligando TODAS as agulhadas anteriores \u00e0 nova agulhada rec\u00e9m descoberta.\n\nCom essa informa\u00e7\u00e3o sim consigo fazer estrat\u00e9gias mais complexas. Comprando",
+      "edit_history_tweet_ids": [
+        "1973897849881698605"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 338
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973889204762652688"
+        }
+      ],
+      "created_at": "2025-10-02T23:18:53.000Z",
+      "in_reply_to_user_id": "1612634051579461632",
+      "id": "1973890458603631068",
+      "text": "@EQM888 Vamos esperar a 12\u00aa agulhada, ora!",
+      "edit_history_tweet_ids": [
+        "1973890458603631068"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 375
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973887643001008338"
+        }
+      ],
+      "created_at": "2025-10-02T23:13:27.000Z",
+      "in_reply_to_user_id": "1438218190560038920",
+      "id": "1973889091684217333",
+      "text": "@ToffoliMauricio Agulhada n\u00e3o tem dire\u00e7\u00e3o. \u00c9 s\u00f3 o cruzamento das m\u00e9dias. Mas \u00e9 fato que a MA7 est\u00e1 apontando pra cima.",
+      "edit_history_tweet_ids": [
+        "1973889091684217333"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 306
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1973815755918749973"
+        }
+      ],
+      "created_at": "2025-10-02T22:56:09.000Z",
+      "in_reply_to_user_id": "14380292",
+      "attachments": {
+        "media_keys": [
+          "3_1973884734133661697"
+        ]
+      },
+      "id": "1973884738718040250",
+      "text": "Fechamos acima da Dollinha!\n\nConfirmamos breakout na linha Vermelha!\n\nDaqui 1h teremos a 11a Agulhada Cl\u00e1ssica no #Diario \n\nChatima Tova! \n\n\ud83e\udd79 https://t.co/BuLBdhdQqK",
+      "edit_history_tweet_ids": [
+        "1973884738718040250"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 8,
+        "like_count": 67,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 9909
+      }
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1973523286337396988"
+        },
+        {
+          "type": "replied_to",
+          "id": "1973857594193461638"
+        }
+      ],
+      "created_at": "2025-10-02T21:11:13.000Z",
+      "in_reply_to_user_id": "1767694216954605568",
+      "id": "1973858332088955165",
+      "text": "@AKverdade https://t.co/GvyY3efQOp https://t.co/0IPcFNC7ZD",
+      "edit_history_tweet_ids": [
+        "1973858332088955165"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 159
+      }
+    }
+  ],
+  "meta": {
+    "previous_token": "77qpymm88g5h9vqklv3e1ux6ldrhegi2aookq81n71e7r",
+    "next_token": "7140dibdnow9c7btw4e2ldb05eqngomwpnv60bdxypgl1",
+    "result_count": 100,
+    "newest_id": "1974530359976251417",
+    "oldest_id": "1973858332088955165"
+  }
+}

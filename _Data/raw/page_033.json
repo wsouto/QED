@@ -1,0 +1,525 @@
+{
+  "data": [
+    {
+      "in_reply_to_user_id": "982046587722584067",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 185
+      },
+      "created_at": "2025-08-14T01:33:49.000Z",
+      "edit_history_tweet_ids": [
+        "1955805023205777875"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955798987262304336"
+        }
+      ],
+      "id": "1955805023205777875",
+      "text": "@glcr93 @dogovirtus Sim. \u00danica entrada poss\u00edvel (se houver)"
+    },
+    {
+      "in_reply_to_user_id": "1476928626171990018",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 156
+      },
+      "created_at": "2025-08-14T01:33:28.000Z",
+      "edit_history_tweet_ids": [
+        "1955804934731128957"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955798786250322279"
+        }
+      ],
+      "id": "1955804934731128957",
+      "text": "@txuintxunfly Affff. Tem as coordenadas?"
+    },
+    {
+      "in_reply_to_user_id": "1438218190560038920",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 193
+      },
+      "created_at": "2025-08-14T01:32:55.000Z",
+      "edit_history_tweet_ids": [
+        "1955804796411371889"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955786819884154960"
+        }
+      ],
+      "id": "1955804796411371889",
+      "text": "@ToffoliMauricio Down trend \u00e9 a linha descendente.\n\nQuando rompe pre\u00e7o hist\u00f3rico e estamos acima de todas as m\u00e9dias, precisamos encontrar as linhas j\u00e1 tra\u00e7adas no passado para saber onde est\u00e3o as resist\u00eancias.\n\nEntrada s\u00f3 tem no teste do Suporte Superior do RSI (se houver)."
+    },
+    {
+      "in_reply_to_user_id": "1613221365028425735",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 230
+      },
+      "created_at": "2025-08-14T00:56:09.000Z",
+      "edit_history_tweet_ids": [
+        "1955795543151796385"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955789299741556908"
+        }
+      ],
+      "id": "1955795543151796385",
+      "text": "@dogovirtus Linha Verde nos 133k aproximadamente (e subindo)"
+    },
+    {
+      "in_reply_to_user_id": "717934383152414720",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 86
+      },
+      "created_at": "2025-08-14T00:55:34.000Z",
+      "edit_history_tweet_ids": [
+        "1955795400029516209"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955789347523100898"
+        }
+      ],
+      "id": "1955795400029516209",
+      "text": "@helvinho_r Northern California"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 47,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1932
+      },
+      "created_at": "2025-08-14T00:09:19.000Z",
+      "edit_history_tweet_ids": [
+        "1955783757627318501"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955783750123708553"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955783753026166787"
+        ]
+      },
+      "id": "1955783757627318501",
+      "text": "#curtissimo \n\n- CONFIRMADO rompimento da linha amarela\n\n- CONFIRMADO rompimento da Resist\u00eancia Superior (agora Suporte Superior) do RSI\n\n- StochRSI bullish\n\nPor enquanto s\u00f3 isso. N\u00e3o tenho PC pra calcular os alvos ent\u00e3o vai ter que ficar pra um pouco mais tarde!\n\nHadouken \ud83d\udd25 https://t.co/W4LS7ZIQVv"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 35,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1119
+      },
+      "created_at": "2025-08-14T00:09:17.000Z",
+      "edit_history_tweet_ids": [
+        "1955783750123708553"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955783742682980606"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955783746118148100"
+        ]
+      },
+      "id": "1955783750123708553",
+      "text": "Vela de 3 Dias corrobora. Fechamento incr\u00edvel!\n\nAssim como o diario, tamb\u00e9m temos espa\u00e7o para romper a Resist\u00eancia Superior.\n\nA ver. https://t.co/6qNJNQ8f0H"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 89,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 15785
+      },
+      "created_at": "2025-08-14T00:09:15.000Z",
+      "edit_history_tweet_ids": [
+        "1955783742682980606"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1955426382152171962"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955783738371268609"
+        ]
+      },
+      "id": "1955783742682980606",
+      "text": "Log 242\n\n#diario \n\n- CONFIRMADO ROMPIMENTO DA DOWN TREND!\n\n- RSI ainda tem espa\u00e7o pra furar a Resist\u00eancia Superior.\n\n- Fechamento Diario mais alto da Hist\u00f3ria do Bitcoin\n\n\ud83d\ude0d\n\nMais tarde fa\u00e7o uma analise mais aprofundada. https://t.co/VA0gdsWifw https://t.co/QUjiwHmO41"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 58,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1428
+      },
+      "created_at": "2025-08-13T22:54:27.000Z",
+      "edit_history_tweet_ids": [
+        "1955764918025904270"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955761136776962296"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955764910203527168"
+        ]
+      },
+      "id": "1955764918025904270",
+      "text": "A regra \u00e9 clara. Rompeu, t\u00e1 rompido.\n\nConfirma/Anula daqui 1h no fechamento do di\u00e1rio.\n\n\ud83d\ude0d coisa linda\n\nTALVEZ o log 242 atrase um pouquinho. To bastante ocupado aqui.\n\n\ud83d\ude18 #log https://t.co/X8TEIIV3mw"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 9,
+        "like_count": 77,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1588
+      },
+      "created_at": "2025-08-13T22:39:25.000Z",
+      "edit_history_tweet_ids": [
+        "1955761136776962296"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955722211756855632"
+        }
+      ],
+      "id": "1955761136776962296",
+      "text": "Poss\u00edvel rompimento daqui 12 min. Olho aberto.\n\nN\u00e3o sei se vou conseguir postar o gr\u00e1fico mas j\u00e1 estou avisando.\n\n#log"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "created_at": "2025-08-13T20:19:40.000Z",
+      "edit_history_tweet_ids": [
+        "1955725965486895126"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1955724843959160986"
+        }
+      ],
+      "id": "1955725965486895126",
+      "text": "RT @RazaboniLeandro: @raicher Mano do c\u00e9u\u2026 olha isso, 15/01/2020\u2026 escrito pelo iniciante @raicher \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc \n\nO Raicher\u2019s Gulch tem mu\u2026"
+    },
+    {
+      "in_reply_to_user_id": "3116395768",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 205
+      },
+      "created_at": "2025-08-13T20:19:36.000Z",
+      "edit_history_tweet_ids": [
+        "1955725949695353142"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955724843959160986"
+        }
+      ],
+      "id": "1955725949695353142",
+      "text": "@RazaboniLeandro \ud83d\ude0d\ud83d\ude4f\ud83c\udffb"
+    },
+    {
+      "in_reply_to_user_id": "1815894873125576704",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 228
+      },
+      "created_at": "2025-08-13T20:16:08.000Z",
+      "edit_history_tweet_ids": [
+        "1955725075635687802"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955724471202968032"
+        }
+      ],
+      "id": "1955725075635687802",
+      "text": "@DollynhoCoin \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+      "in_reply_to_user_id": "1777090844744417281",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 294
+      },
+      "created_at": "2025-08-13T20:08:49.000Z",
+      "edit_history_tweet_ids": [
+        "1955723233673801951"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955723019806019637"
+        }
+      ],
+      "id": "1955723233673801951",
+      "text": "@EduardoMelloAF Eu fecho geral at\u00e9 romper ou perder."
+    },
+    {
+      "in_reply_to_user_id": "1662809822910193669",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 147
+      },
+      "created_at": "2025-08-13T20:06:02.000Z",
+      "edit_history_tweet_ids": [
+        "1955722535380942922"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955719628828659902"
+        }
+      ],
+      "id": "1955722535380942922",
+      "text": "@Arilthonlopes @washington22732 @bitminer_fun Copia daqui:\n\nhttps://t.co/9SaOpKKNLb"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 17,
+        "like_count": 77,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2310
+      },
+      "created_at": "2025-08-13T20:04:45.000Z",
+      "edit_history_tweet_ids": [
+        "1955722211756855632"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955681824203817333"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955722206123843585"
+        ]
+      },
+      "id": "1955722211756855632",
+      "text": "QED \ud83d\ude0e\n\nLinha amarela \u2705 \n\nAinda temos 2h45 nessa vela. Vou reajustar a estrat\u00e9gia at\u00e9 entender o que esse RSI vai fazer e ent\u00e3o volto.\n\nBeijos \ud83d\ude18 \n\n#log https://t.co/m0BlyubVK5"
+    },
+    {
+      "in_reply_to_user_id": "1140399068201574400",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 133
+      },
+      "created_at": "2025-08-13T19:05:22.000Z",
+      "edit_history_tweet_ids": [
+        "1955707267413893172"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955696959269830973"
+        }
+      ],
+      "id": "1955707267413893172",
+      "text": "@DanielM87957969 Sim"
+    },
+    {
+      "in_reply_to_user_id": "1844402048269418496",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 87
+      },
+      "created_at": "2025-08-13T19:05:07.000Z",
+      "edit_history_tweet_ids": [
+        "1955707205547909552"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955706944200585289"
+        }
+      ],
+      "id": "1955707205547909552",
+      "text": "@washington22732 @bitminer_fun Ativa meu indicador Raicher Strategy 3"
+    },
+    {
+      "in_reply_to_user_id": "14380292",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 52,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2029
+      },
+      "created_at": "2025-08-13T17:24:16.000Z",
+      "edit_history_tweet_ids": [
+        "1955681824203817333"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955630032594055320"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1955681818201739264"
+        ]
+      },
+      "id": "1955681824203817333",
+      "text": "Breakout confirmado!\n\nAlvo na Amarela.\n\nSuporte na Pink.\n\nAinda temos espa\u00e7o no RSI. Curioso pra ver se vai romper ou bater na resist\u00eancia.\n\nStochRSI favor\u00e1vel. \n\n#log https://t.co/bfftQWFbUD"
+    },
+    {
+      "in_reply_to_user_id": "1501373585549635587",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 119
+      },
+      "created_at": "2025-08-13T16:27:50.000Z",
+      "edit_history_tweet_ids": [
+        "1955667623372570667"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1955635013753643174"
+        }
+      ],
+      "id": "1955667623372570667",
+      "text": "@ElitonAndre @bitminer_fun 231"
+    },
+    {
+      "in_reply_to_user_id": "45879226",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 157
+      },
+      "created_at": "2025-08-13T16:27:35.000Z",
+      "edit_history_tweet_ids": [
+        "1955667560042819996"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1950269091174109497"
+        },
+        {
+          "type": "replied_to",
+          "id": "1955640746670784987"
+        }
+      ],
+      "id": "1955667560042819996",
+      "text": "@joaohornburg https://t.co/0uC1bUDKgR"
+    }
+  ],
+  "meta": {
+    "previous_token": "77qpymm88g5h9vqklv3d7lux5d1oqjmbffivkwapzkgfp",
+    "result_count": 21,
+    "newest_id": "1955805023205777875",
+    "oldest_id": "1955667560042819996"
+  }
+}

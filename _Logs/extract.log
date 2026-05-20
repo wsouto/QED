@@ -1,0 +1,86 @@
+============================================================
+  Phase 1: Extract @raicher tweets
+  Start time: 2024-05-17T21:30:00Z
+  Output: /home/wsouto/Documents/Obsidian/QED/_Scripts/../_Data/raw
+  Delay: 2s between calls
+============================================================
+
+  Request 1: fetching... OK — 100 tweets, oldest=20253303...3487, next=True
+
+  Request 2: fetching... OK — 100 tweets, oldest=20140300...4218, next=True
+
+  Request 3: fetching... OK — 100 tweets, oldest=20020853...7791, next=True
+
+  Request 4: fetching... OK — 100 tweets, oldest=19970003...6285, next=True
+
+  Request 5: fetching... OK — 100 tweets, oldest=19941112...3134, next=True
+
+  Request 6: fetching... OK — 100 tweets, oldest=19920233...4267, next=True
+
+  Request 7: fetching... OK — 100 tweets, oldest=19908928...6321, next=True
+
+  Request 8: fetching... OK — 100 tweets, oldest=19886407...2295, next=True
+
+  Request 9: fetching... OK — 100 tweets, oldest=19872078...3167, next=True
+
+  Request 10: fetching... OK — 99 tweets, oldest=19858644...1892, next=True
+
+  Request 11: fetching... OK — 100 tweets, oldest=19846681...4844, next=True
+
+  Request 12: fetching... OK — 100 tweets, oldest=19839744...7923, next=True
+
+  Request 13: fetching... OK — 100 tweets, oldest=19832792...9392, next=True
+
+  Request 14: fetching... OK — 100 tweets, oldest=19818808...8259, next=True
+
+  Request 15: fetching... OK — 100 tweets, oldest=19806421...2178, next=True
+
+  Request 16: fetching... OK — 100 tweets, oldest=19793273...9171, next=True
+
+  Request 17: fetching... OK — 100 tweets, oldest=19781562...7074, next=True
+
+  Request 18: fetching... OK — 100 tweets, oldest=19768056...4278, next=True
+
+  Request 19: fetching... OK — 100 tweets, oldest=19757356...6142, next=True
+
+  Request 20: fetching... OK — 100 tweets, oldest=19745367...3777, next=True
+
+  Request 21: fetching... OK — 100 tweets, oldest=19738583...5165, next=True
+
+  Request 22: fetching... OK — 100 tweets, oldest=19727901...4804, next=True
+
+  Request 23: fetching... OK — 100 tweets, oldest=19710533...5288, next=True
+
+  Request 24: fetching... OK — 100 tweets, oldest=19694634...7458, next=True
+
+  Request 25: fetching... OK — 100 tweets, oldest=19676282...3671, next=True
+
+  Request 26: fetching... OK — 100 tweets, oldest=19662300...1177, next=True
+
+  Request 27: fetching... OK — 100 tweets, oldest=19647414...1915, next=True
+
+  Request 28: fetching... OK — 100 tweets, oldest=19625878...1788, next=True
+
+  Request 29: fetching... OK — 100 tweets, oldest=19612344...1559, next=True
+
+  Request 30: fetching... OK — 100 tweets, oldest=19593138...5353, next=True
+
+  Request 31: fetching... OK — 100 tweets, oldest=19578394...9864, next=True
+
+  Request 32: fetching... OK — 99 tweets, oldest=19558435...1541, next=True
+
+  Request 33: fetching... OK — 21 tweets, oldest=19556675...9996, next=False
+
+============================================================
+  END OF TIMELINE REACHED
+============================================================
+
+============================================================
+  PHASE 1 COMPLETE
+============================================================
+  API calls made:    33
+  Pages saved:       33
+  Total tweets:      3219
+  Errors:            0
+  Output directory:  /home/wsouto/Documents/Obsidian/QED/_Scripts/../_Data/raw
+============================================================

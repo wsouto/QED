@@ -1,0 +1,1211 @@
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 272
+      },
+      "text": "@The_Desinvestor @l03n27 @flaviogarag \ud83e\udd23\ud83e\udd23\ud83e\udd23 essas gordinhas s\u00e3o incr\u00edveis",
+      "id": "1796321015578153375",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1796317514399694868"
+        }
+      ],
+      "created_at": "2024-05-30T23:21:18.000Z",
+      "edit_history_tweet_ids": [
+        "1796321015578153375"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @bitdov: Assim como BTC, o canal @bitcoinheiros fez aprox. 10x de inscritos durante o \u00faltimo ciclo de 4 anos!\n\nQuero agradecer \ud83e\udee1 a todos\u2026",
+      "id": "1795880399790620858",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1795871113907511359"
+        }
+      ],
+      "created_at": "2024-05-29T18:10:27.000Z",
+      "edit_history_tweet_ids": [
+        "1795880399790620858"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 298
+      },
+      "text": "@bitdov @bitcoinheiros What? Hahahahahaha",
+      "id": "1795880377162293258",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1795871113907511359"
+        }
+      ],
+      "created_at": "2024-05-29T18:10:22.000Z",
+      "edit_history_tweet_ids": [
+        "1795880377162293258"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 54,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1251
+      },
+      "text": "\ud83c\udf1d https://t.co/eQlUwzGmPB",
+      "id": "1795557755954008170",
+      "created_at": "2024-05-28T20:48:23.000Z",
+      "edit_history_tweet_ids": [
+        "1795557755954008170"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 34
+      },
+      "text": "@CheckmateBra22 Entender os porqu\u00eas de cada coisa \u00e9 um pouco dif\u00edcil e demanda uma experi\u00eancia maior.\n\nMas \u00e9 bem f\u00e1cil ler associando cada momento com sua flecha colorida. Veja que estamos em um ciclo parecido com 2016-2017, nos encaminhando para a flecha Azul caso consigamos fechar sobre o RSI.",
+      "id": "1795134997151556000",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1795134508703899964"
+        }
+      ],
+      "created_at": "2024-05-27T16:48:29.000Z",
+      "edit_history_tweet_ids": [
+        "1795134997151556000"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @raicher: Essa estrat\u00e9gia Mensal se mostrou infal\u00edvel at\u00e9 hoje.\n\nFlechas:\nAmarela: In\u00edcio do movimento parab\u00f3lico\nAzul: 2\u00ba impulso\u2026",
+      "id": "1795130996100100208",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1795103150862372986"
+        }
+      ],
+      "created_at": "2024-05-27T16:32:36.000Z",
+      "edit_history_tweet_ids": [
+        "1795130996100100208"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1202
+      },
+      "text": "Se voc\u00ea quiser ver o gr\u00e1fico em Alta resolu\u00e7\u00e3o, acesse o link do Telegram: https://t.co/R2xAd0dSxp",
+      "id": "1795130556935438544",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1795103153538359780"
+        }
+      ],
+      "created_at": "2024-05-27T16:30:51.000Z",
+      "edit_history_tweet_ids": [
+        "1795130556935438544"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 44
+      },
+      "text": "@CapixaotomakaN @JaraguaBTC N\u00e3o \u00e9 o Pi, mas tamb\u00e9m gosto desse indicador. Top e bottom nunca erraram.",
+      "id": "1795129540500492432",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1795119745060024366"
+        }
+      ],
+      "created_at": "2024-05-27T16:26:49.000Z",
+      "edit_history_tweet_ids": [
+        "1795129540500492432"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1686
+      },
+      "text": "O fechamento deste m\u00eas \u00e9 cr\u00edtico porque estamos muito pr\u00f3ximos dessa resist\u00eancia importante dos 71.52 no RSI.\n\nA grande quest\u00e3o \u00e9 se repetiremos a Flecha Azul.\n\nVejam como no ciclo passado n\u00e3o conseguimos romper essa importante resist\u00eancia e a Azul n\u00e3o apareceu.",
+      "id": "1795103153538359780",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1795103150862372986"
+        }
+      ],
+      "created_at": "2024-05-27T14:41:57.000Z",
+      "edit_history_tweet_ids": [
+        "1795103153538359780"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 6,
+        "like_count": 184,
+        "quote_count": 1,
+        "bookmark_count": 56,
+        "impression_count": 29144
+      },
+      "text": "Essa estrat\u00e9gia Mensal se mostrou infal\u00edvel at\u00e9 hoje.\n\nFlechas:\nAmarela: In\u00edcio do movimento parab\u00f3lico\nAzul: 2\u00ba impulso do movimento parab\u00f3lico\nVermelha: Topo\nVerde: In\u00edcio do Bull Market\n\nRSI 71.52: Confirma\u00e7\u00e3o de topo\nRSI 43.82: Confirma\u00e7\u00e3o de fundo\n\nDe \ud83d\udc40 no fechamento em 5d. https://t.co/oiYz5V6V4e",
+      "id": "1795103150862372986",
+      "created_at": "2024-05-27T14:41:57.000Z",
+      "edit_history_tweet_ids": [
+        "1795103150862372986"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 128
+      },
+      "text": "@caueconomy @stack_s4ts \ud83d\ude0a\ud83d\ude4f\ud83c\udffb",
+      "id": "1793006641593602454",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792999278215897362"
+        }
+      ],
+      "created_at": "2024-05-21T19:51:10.000Z",
+      "edit_history_tweet_ids": [
+        "1793006641593602454"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 124
+      },
+      "text": "@HighMt21 N\u00e3o! Falei que o trade funciona em ciclos bull ou bear, mas quando acontece no bear, \u00e9 muito mais r\u00e1pido.",
+      "id": "1792409254416232676",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792408568911610110"
+        }
+      ],
+      "created_at": "2024-05-20T04:17:22.000Z",
+      "edit_history_tweet_ids": [
+        "1792409254416232676"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 409
+      },
+      "text": "@HighMt21 Os bearish s\u00e3o r\u00e1pidos (m\u00e9dia de 2 meses)\n\nOs bullish levam mais de 1 ano em m\u00e9dia. Coincide com meu topo tempor\u00e1rio do ciclo de 7 anos em Maio 2025.",
+      "id": "1792378735972503748",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792377441828413655"
+        }
+      ],
+      "created_at": "2024-05-20T02:16:06.000Z",
+      "edit_history_tweet_ids": [
+        "1792378735972503748"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 97,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "impression_count": 2958
+      },
+      "text": "Em caso de repeti\u00e7\u00e3o da performance de cada cen\u00e1rio:\n\n1- Bearish: \nworst case 46% significa USD 97k\n\nbest case 101% significa USD 133k\n\n2- Bullish:\nworst case 80% significa USD 120k\n\nbest case 3300% significa USD 2.2M \n\n\ud83d\ude02",
+      "id": "1792374931004813351",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792352145578373509"
+        }
+      ],
+      "created_at": "2024-05-20T02:00:58.000Z",
+      "edit_history_tweet_ids": [
+        "1792374931004813351"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 65,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3386
+      },
+      "text": "Aqui com ambos os ciclos. \ud83d\ude0d\n\nHadouken! https://t.co/21UFn1Frna",
+      "id": "1792352145578373509",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792352143158206812"
+        }
+      ],
+      "created_at": "2024-05-20T00:30:26.000Z",
+      "edit_history_tweet_ids": [
+        "1792352145578373509"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 47,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1963
+      },
+      "text": "Em ciclos bearish, fez no m\u00ednimo 46% e no m\u00e1ximo 101% https://t.co/elPZXmBUYk",
+      "id": "1792352143158206812",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792352141040083109"
+        }
+      ],
+      "created_at": "2024-05-20T00:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "1792352143158206812"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 50,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1982
+      },
+      "text": "Em ciclos bullish, o $BTCUSD fez no m\u00ednimo 80% e no m\u00e1ximo 3,300% \ud83e\udd23 https://t.co/MRHWogHpUb",
+      "id": "1792352141040083109",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792352138968134034"
+        }
+      ],
+      "created_at": "2024-05-20T00:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "1792352141040083109"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 31,
+        "reply_count": 12,
+        "like_count": 339,
+        "quote_count": 5,
+        "bookmark_count": 63,
+        "impression_count": 29860
+      },
+      "text": "Todas as vezes em que o Stoch RSI Semanal cruzou no n\u00edvel 1.07, o #Bitcoin teve uma corrida subsequente.\n\nVeja nos gr\u00e1ficos abaixo como independe se estamos em mercado bullish ou bearish. O padr\u00e3o foi bem-sucedido em TODAS as ocasi\u00f5es at\u00e9 hoje. https://t.co/lSelX8q1tJ",
+      "id": "1792352138968134034",
+      "created_at": "2024-05-20T00:30:24.000Z",
+      "edit_history_tweet_ids": [
+        "1792352138968134034"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 41
+      },
+      "text": "@clayton19964637 @edgardrj26 S\u00f3 o @bitcoinheiros por enquanto",
+      "id": "1792293865275462079",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792292710977593790"
+        }
+      ],
+      "created_at": "2024-05-19T20:38:51.000Z",
+      "edit_history_tweet_ids": [
+        "1792293865275462079"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 50
+      },
+      "text": "@clayton19964637 @edgardrj26 N\u00e3o. Pode usar de gra\u00e7a. \n\nProcure Raicher Strategy 2 no TradingView.",
+      "id": "1792291947585097844",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792284624879517820"
+        }
+      ],
+      "created_at": "2024-05-19T20:31:14.000Z",
+      "edit_history_tweet_ids": [
+        "1792291947585097844"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 56
+      },
+      "text": "@lanternasim @victorsetim Mas se voc\u00eas tiverem uma ideia melhor de como eu posso postar aqui sem tanto retrabalho, sou todo ouvidos.",
+      "id": "1792232627354964198",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792232485411344791"
+        }
+      ],
+      "created_at": "2024-05-19T16:35:31.000Z",
+      "edit_history_tweet_ids": [
+        "1792232627354964198"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 91
+      },
+      "text": "@lanternasim @victorsetim Cara, eu adoraria postar aqui ou em algum lugar melhor, mas\u2026\n\n1- A quantidade de \u201ctraders bem-sucedidos\u201d que opinam sobre a estrat\u00e9gia (sem entender) \u00e9 enorme.\n\n2- O editor de imagens de stories do IG \u00e9 quase imbat\u00edvel. Consigo postar uma explica\u00e7\u00e3o complexa em alguns segundos.",
+      "id": "1792232485411344791",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1792231703357898788"
+        }
+      ],
+      "created_at": "2024-05-19T16:34:57.000Z",
+      "edit_history_tweet_ids": [
+        "1792232485411344791"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @R38TAO: D\u00e1 medo.\n\nSe isso acontecer, muda as vidas de quem embarcou e muda o mundo mesmo.\n\n\u00c9 dif\u00edcil dizer se \u00e9 mais bullish em btc ou\u2026",
+      "id": "1792228951131402462",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1792214845644738688"
+        }
+      ],
+      "created_at": "2024-05-19T16:20:54.000Z",
+      "edit_history_tweet_ids": [
+        "1792228951131402462"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 220
+      },
+      "text": "@edu_gabriel1985 \ud83e\udd23 admita",
+      "id": "1791598913587462192",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1791597342329557268"
+        }
+      ],
+      "created_at": "2024-05-17T22:37:21.000Z",
+      "edit_history_tweet_ids": [
+        "1791598913587462192"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 62,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 7665
+      },
+      "text": "Pequeno Zoom para poderem ver melhor o ciclo atual que come\u00e7ou com o dip do RSI abaixo dos 43.83 na flechinha amarela em Junho de 2022. https://t.co/0G3VYr7Nj4",
+      "id": "1791585897869426947",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1791582201672606146"
+        }
+      ],
+      "created_at": "2024-05-17T21:45:38.000Z",
+      "edit_history_tweet_ids": [
+        "1791585897869426947"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 83,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 7970
+      },
+      "text": "Para quem se interessar, tem toda uma explica\u00e7\u00e3o em Destaque no meu IG sobre o ciclo de 7 anos.\n\nProcure por hromeutetao",
+      "id": "1791584833912914402",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1791582201672606146"
+        }
+      ],
+      "created_at": "2024-05-17T21:41:25.000Z",
+      "edit_history_tweet_ids": [
+        "1791584833912914402"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 33,
+        "reply_count": 15,
+        "like_count": 340,
+        "quote_count": 4,
+        "bookmark_count": 109,
+        "impression_count": 99756
+      },
+      "text": "Acho que nunca mostrei minha teoria dos ciclos de 7ish anos do $BTCUSD aqui no X. \n\nEnt\u00e3o aproveito para apresentar pra voc\u00eas o gr\u00e1fico abaixo.\n\nDe acordo com a teoria, estamos na altura da 2\u00aa flecha laranja.\n\nReparem na semelhan\u00e7a do Stoch RSI de hoje com Outubro de 2016. \ud83e\udd2f https://t.co/IQS2WzfAIP",
+      "id": "1791582201672606146",
+      "created_at": "2024-05-17T21:30:57.000Z",
+      "edit_history_tweet_ids": [
+        "1791582201672606146"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 43
+      },
+      "text": "@dietaanimall @mongehodl \ud83e\udd23",
+      "id": "1790748424020844898",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1790737590670278727"
+        }
+      ],
+      "created_at": "2024-05-15T14:17:49.000Z",
+      "edit_history_tweet_ids": [
+        "1790748424020844898"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 100
+      },
+      "text": "@mongehodl iPhone 15 Pro. Modo noturno 10s sem trip\u00e9.",
+      "id": "1790616097647181914",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1790615048404038044"
+        }
+      ],
+      "created_at": "2024-05-15T05:32:00.000Z",
+      "edit_history_tweet_ids": [
+        "1790616097647181914"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 77,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2345
+      },
+      "text": "GN https://t.co/aGP2IEguzu",
+      "id": "1790614644635087203",
+      "created_at": "2024-05-15T05:26:13.000Z",
+      "edit_history_tweet_ids": [
+        "1790614644635087203"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "text": "RT @edgardrj26: Indicador @raicher no TradingView. \n\nEst\u00e3o prontos para a festa dos 100k \ud83d\udcaf?? \ud83d\ude80 \n\nEm breve teremos alta volatilidade. A\u2026",
+      "id": "1790570646537384016",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1790433033918587225"
+        }
+      ],
+      "created_at": "2024-05-15T02:31:23.000Z",
+      "edit_history_tweet_ids": [
+        "1790570646537384016"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 60
+      },
+      "text": "@RogerioRbf @R38TAO Eu diria que em S\u00e3o Paulo o problema \u00e9 a fuma\u00e7a e a polui\u00e7\u00e3o de luz. \n\nAqui s\u00f3 chove de Janeiro a Abril.",
+      "id": "1790226722983723169",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789831714346287428"
+        }
+      ],
+      "created_at": "2024-05-14T03:44:46.000Z",
+      "edit_history_tweet_ids": [
+        "1790226722983723169"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 365
+      },
+      "text": "@LeonardooPaivaa @R38TAO Eu tiro v\u00e1rias fotos da natureza com iPhone. Mas \u00e9 s\u00f3 por divers\u00e3o mesmo. Amador total.\n\nD\u00e1 uma olhada no insta: https://t.co/1incD0xFWN",
+      "id": "1789878095861715154",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789867994799022090"
+        }
+      ],
+      "created_at": "2024-05-13T04:39:27.000Z",
+      "edit_history_tweet_ids": [
+        "1789878095861715154"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @raicher: @R38TAO Aqui alguns registros que eu fiz nessa noite https://t.co/OZC61WeE8P",
+      "id": "1789824700677341313",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1789806343848952250"
+        }
+      ],
+      "created_at": "2024-05-13T01:07:16.000Z",
+      "edit_history_tweet_ids": [
+        "1789824700677341313"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 510
+      },
+      "text": "@Jedidias_amado @R38TAO California",
+      "id": "1789816972156293377",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789816577270931706"
+        }
+      ],
+      "created_at": "2024-05-13T00:36:34.000Z",
+      "edit_history_tweet_ids": [
+        "1789816972156293377"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 544
+      },
+      "text": "@XBlackMusk @R38TAO iPhone 15 pro Max",
+      "id": "1789816175339212910",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789814553192153461"
+        }
+      ],
+      "created_at": "2024-05-13T00:33:24.000Z",
+      "edit_history_tweet_ids": [
+        "1789816175339212910"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 651
+      },
+      "text": "@felipebueno @R38TAO 100%",
+      "id": "1789813103057596751",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789812825793106089"
+        }
+      ],
+      "created_at": "2024-05-13T00:21:11.000Z",
+      "edit_history_tweet_ids": [
+        "1789813103057596751"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 66,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @R38TAO: H\u00e1 especula\u00e7\u00f5es puras como percentuais no final, mas h\u00e1 fatos tb.\n\nN\u00e3o havia aurora boreal em Portugal desde a d\u00e9cada de 1930 e\u2026",
+      "id": "1789811026810089583",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1789805663758983429"
+        }
+      ],
+      "created_at": "2024-05-13T00:12:56.000Z",
+      "edit_history_tweet_ids": [
+        "1789811026810089583"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 11,
+        "like_count": 225,
+        "quote_count": 0,
+        "bookmark_count": 17,
+        "impression_count": 13652
+      },
+      "text": "@R38TAO Aqui alguns registros que eu fiz nessa noite https://t.co/OZC61WeE8P",
+      "id": "1789806343848952250",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789805663758983429"
+        }
+      ],
+      "created_at": "2024-05-12T23:54:20.000Z",
+      "edit_history_tweet_ids": [
+        "1789806343848952250"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 101
+      },
+      "text": "@paulbunyanbtc \u2705",
+      "id": "1789467561182331134",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789412977902329946"
+        }
+      ],
+      "created_at": "2024-05-12T01:28:07.000Z",
+      "edit_history_tweet_ids": [
+        "1789467561182331134"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 61
+      },
+      "text": "@juliosantoslib Vai ter hoje tamb\u00e9m. Provavelmente amanh\u00e3 tamb\u00e9m.",
+      "id": "1789378906824298583",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789376547696103888"
+        }
+      ],
+      "created_at": "2024-05-11T19:35:51.000Z",
+      "edit_history_tweet_ids": [
+        "1789378906824298583"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 196
+      },
+      "text": "@juliosantoslib Usa um trip\u00e9 e faz foto noturna de 30 segundos de exposi\u00e7\u00e3o. Certeza que voc\u00ea vai ver.",
+      "id": "1789341623887045038",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789336492348703201"
+        }
+      ],
+      "created_at": "2024-05-11T17:07:42.000Z",
+      "edit_history_tweet_ids": [
+        "1789341623887045038"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 200
+      },
+      "text": "@AzureCruzader E a\u00ed? Algu\u00e9m vem me visitar?",
+      "id": "1789325952385950207",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789325279141183624"
+        }
+      ],
+      "created_at": "2024-05-11T16:05:25.000Z",
+      "edit_history_tweet_ids": [
+        "1789325952385950207"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 352
+      },
+      "text": "@Antertera A olho nu voc\u00ea consegue ver o tom avermelhado. A foto ajuda bastante.",
+      "id": "1789312325465653687",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1789296218192912419"
+        }
+      ],
+      "created_at": "2024-05-11T15:11:16.000Z",
+      "edit_history_tweet_ids": [
+        "1789312325465653687"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 18,
+        "like_count": 313,
+        "quote_count": 4,
+        "bookmark_count": 6,
+        "impression_count": 20199
+      },
+      "text": "Coisa que eu n\u00e3o imaginava que veria hoje no meu quintal: Aurora Boreal. #Auroraborealis https://t.co/FIJl7egvNk",
+      "id": "1789179394520662392",
+      "created_at": "2024-05-11T06:23:03.000Z",
+      "edit_history_tweet_ids": [
+        "1789179334269514026",
+        "1789179394520662392"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 73
+      },
+      "text": "Coisas que eu n\u00e3o imaginava que veria hoje no meu quintal: Aurora Boreal. #Auroraborealis https://t.co/7IspYcyDnU",
+      "id": "1789179334269514026",
+      "created_at": "2024-05-11T06:22:49.000Z",
+      "edit_history_tweet_ids": [
+        "1789179334269514026",
+        "1789179394520662392"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @TheAtlasSociety: Money is money, and paper is paper. All the invention of man cannot make them otherwise.\n\n- Thomas Paine",
+      "id": "1789065467728159227",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1789065386140311611"
+        }
+      ],
+      "created_at": "2024-05-10T22:50:21.000Z",
+      "edit_history_tweet_ids": [
+        "1789065467728159227"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @stephanlivera: MMT is just government-theft-apologism",
+      "id": "1787253382467715442",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1787119315679855039"
+        }
+      ],
+      "created_at": "2024-05-05T22:49:46.000Z",
+      "edit_history_tweet_ids": [
+        "1787253382467715442"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 194
+      },
+      "text": "@caueconomy @R38TAO \ud83e\udd70",
+      "id": "1786782804237570250",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1786767681405763935"
+        }
+      ],
+      "created_at": "2024-05-04T15:39:52.000Z",
+      "edit_history_tweet_ids": [
+        "1786782804237570250"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 141,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "RT @nvk: Good morning. It's all a theater, they have no idea what they are doing. \n\nBuy #Bitcoin\n\nhttps://t.co/aHPdYHsMSo",
+      "id": "1786481276779717089",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1786354851330294111"
+        }
+      ],
+      "created_at": "2024-05-03T19:41:42.000Z",
+      "edit_history_tweet_ids": [
+        "1786481276779717089"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 323
+      },
+      "text": "@CapivaraCorp QED \ud83e\udd2d https://t.co/9V4zjMUuXB",
+      "id": "1786476012605423764",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1785788039513682255"
+        }
+      ],
+      "created_at": "2024-05-03T19:20:47.000Z",
+      "edit_history_tweet_ids": [
+        "1786476012605423764"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 80
+      },
+      "text": "@AzureCruzader @itsandrewgao @georainbolt @geoguessr @KoreaComK @bitdov @ojedabtc @narcelio @lorenzo_lfm @AkitaOnRails @R38TAO @cyberhermitt @farmDev79 Voc\u00eas v\u00e3o finalmente descobrir que eu vivo em Carapicuiba.",
+      "id": "1785835855900549505",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1785834827297562680"
+        }
+      ],
+      "created_at": "2024-05-02T00:57:01.000Z",
+      "edit_history_tweet_ids": [
+        "1785835855900549505"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 686
+      },
+      "text": "@elonmusk @WallStreetSilv #Bitcoin fixes this.",
+      "id": "1785788600036323497",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1785787895564886168"
+        }
+      ],
+      "created_at": "2024-05-01T21:49:15.000Z",
+      "edit_history_tweet_ids": [
+        "1785788600036323497"
+      ],
+      "author_id": "14380292"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 348
+      },
+      "text": "@CapivaraCorp Situa\u00e7\u00e3o atual. N\u00e3o conseguiu ganhar o topo anterior. \ud83d\udc40 https://t.co/5bPGRKi2dr",
+      "id": "1785788039513682255",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1785783158610211062"
+        }
+      ],
+      "created_at": "2024-05-01T21:47:01.000Z",
+      "edit_history_tweet_ids": [
+        "1785788039513682255"
+      ],
+      "author_id": "14380292"
+    }
+  ],
+  "meta": {
+    "newest_id": "1796321015578153375",
+    "oldest_id": "1785788039513682255",
+    "result_count": 54
+  }
+}

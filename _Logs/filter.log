@@ -1,0 +1,65 @@
+============================================================
+  Phase 2: Filter & Classify @raicher tweets
+============================================================
+
+  Loading raw data from: /home/wsouto/Documents/Obsidian/QED/_Scripts/../_Data/raw
+  Loaded 3219 tweets from 33 files
+
+  Classifying tweets...
+
+  Results:
+    Bitcoin analysis:  1404
+    Other:             1815
+    Total:             3219
+
+  Top matching keywords:
+    rsi                              655 tweets
+    resist[êe]ncia                   594 tweets
+    ma\d+                            542 tweets
+    suporte                          368 tweets
+    di[áa]rio                        241 tweets
+    stochrsi                         231 tweets
+    média do rsi                     203 tweets
+    \d+h                             162 tweets
+    ema\d+                           154 tweets
+    trade\w*                         144 tweets
+    qed                              142 tweets
+    agulhad[ao]                      137 tweets
+    vela                             123 tweets
+    bitcoin                           97 tweets
+    trend                             87 tweets
+    semanal                           81 tweets
+    gr[áa]fico                        74 tweets
+    cruzamento                        70 tweets
+    fundo                             63 tweets
+    topo                              57 tweets
+
+  Building corpus.json...
+  Written: /home/wsouto/Documents/Obsidian/QED/_Scripts/../_Data/corpus.json (2363.6 KB)
+
+  Sample of classified tweets:
+
+  --- Bitcoin Analysis (first 5) ---
+    [2026-05-18] Ouro a 3 meses e 13 dias de fechar essa vela, mas vejam o RSI apoiado pouco acima do Supor...
+    [2026-05-02] @msx1229 @Quem_e_Satoshi @DollynhoCoin a agulhada clássica
+    [2026-04-30] FECHOU a vela de 4 Meses do Ouro!
+
+QED, fechamos com uma vela HORROROSA, muito típica de f...
+    [2026-04-28] @DollynhoCoin @RazaboniLeandro @TradeHublive Maconha
+    [2026-04-27] @DollynhoCoin @RazaboniLeandro @TradeHublive Hahahaha se você não comentasse eu nem iria l...
+
+  --- Other (first 5) ---
+    [2026-05-20] Se o Dolly Guaraná falou, quem sou eu pra discutir? https://t.co/230bbsYfA3
+    [2026-05-20] @DollynhoCoin @edhyperbtc @Rapha13462 Vai ficar pronto antes da AGI.
+    [2026-05-19] 👀 https://t.co/EhNGOBuNC1
+    [2026-05-18] @JoeTegtmeyer Smart way to wash the Gateway to Mars sign
+    [2026-05-12] @bitminer_fun Raichero
+
+============================================================
+  PHASE 2 COMPLETE
+============================================================
+  Bitcoin analysis tweets: 1404
+  Other tweets:            1815
+  Total:                   3219
+  Corpus file:             /home/wsouto/Documents/Obsidian/QED/_Scripts/../_Data/corpus.json
+============================================================
