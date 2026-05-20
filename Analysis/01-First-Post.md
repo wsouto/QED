@@ -61,6 +61,6 @@ See [[02-Methodology]] for how the method evolved, and [[07-Evolution]] for the 
 
 *The original 7-year cycle chart — colored arrows marking Bitcoin's macro phases, with RSI and StochRSI in the lower panel.*
 
-![[_Assets/zoomed-cycle-chart.png]]
+![[_Assets/zoomed-cycle-chart.jpg]]
 
 *Zoomed view of the current cycle, starting from the RSI dip below 43.83 in June 2022.*

@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +195,10 @@
   },
   "active": "e737f541e5314229",
   "lastOpenFiles": [
+    "_Assets/zoomed-cycle-chart.jpg",
+    "Analysis/02-Methodology.md",
+    "Analysis/03-Raicher-Strategy.md",
+    "Analysis/01-First-Post.md",
     "_Assets/monthly-chart.jpg",
     "_Assets/raicher-strategy-chart.jpg",
     "_Assets/below-below-chart.jpg",
@@ -208,8 +213,6 @@
     "Analysis/07-Evolution.md",
     "Analysis/05-Key-Predictions.md",
     "Analysis/04-Glossary.md",
-    "Analysis/03-Raicher-Strategy.md",
-    "Analysis/02-Methodology.md",
     "_Plan/03-Phase-3-Vault-Gen.md",
     "_Plan/02-Phase-2-Filter.md",
     "_Data/DATA-MANIFEST.md",
@@ -219,7 +222,6 @@
     "_Scripts/filter_tweets.md",
     "_Scripts/fill_missing_tweets.md",
     "_Scripts/extract_raicher.md",
-    "Analysis/01-First-Post.md",
     "_Scripts/merge_missing.py",
     "_Data/raw_missing/2025-07",
     "_Data/raw_missing/2025-06/page_02.json",
