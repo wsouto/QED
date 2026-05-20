@@ -42,3 +42,17 @@ A trend line derived from two agulhadas — the Trump election candle wick and t
 The dominant daily trend line, born from agulhadas on October 15, 2023 and August 2, 2024. Used as the primary support/resistance on the daily chart. Breaking below this line was a significant bearish signal (discussed in December 2024).
 
 See [[02-Methodology]] for how these strategies fit into the overall system.
+
+## Charts
+
+### Below-Below-Below — 2-Day Chart
+
+![[_Assets/below-below-chart.jpg]]
+
+*The 5 green arrows in Bitcoin's history from the Below-Below-Below strategy on the 2-day chart.*
+
+### Raicher Strategy 2 — Monthly Purple Arrows
+
+![[_Assets/raicher-strategy-chart.jpg]]
+
+*Raicher Strategy 2 indicator on the monthly chart — purple arrows marking structural inflection points, occurring only 3 times in Bitcoin's history (2015, 2020, 2024).*

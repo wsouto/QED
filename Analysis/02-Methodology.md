@@ -74,6 +74,20 @@ He analyzes multiple timeframes and uses confluences across them:
 
 See [[04-Glossary]] for the full glossary.
 
+## Charts
+
+### RSI Crossover — June 5, 2024
+
+![[_Assets/rsi-crossover-chart.jpg]]
+
+*The seminal RSI crossover strategy post — weekly RSI crosses its moving average, triggering a buy signal. 31st occurrence in Bitcoin's history.*
+
+### Monthly Macro View
+
+![[_Assets/monthly-chart.jpg]]
+
+*Monthly chart showing RSI structure at macro scale — the yellow, blue, red, and green arrows marking cycle phases.*
+
 - **QED** — *Quod Erat Demonstratum* — his "told you so" when price hits a predicted target
 - **Agulhada** — Triple moving average cross that defines hidden trend lines
 - **Nostreidamos** — His analysis brand/telegram channel

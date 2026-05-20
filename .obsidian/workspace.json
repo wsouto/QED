@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bae816b5dd99603f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-Index"
-            }
-          },
-          {
             "id": "e737f541e5314229",
             "type": "leaf",
             "state": {
@@ -33,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "01-First-Post"
+            }
+          },
+          {
+            "id": "bae816b5dd99603f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -108,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Index.md",
+                "file": "Analysis/01-First-Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-Index"
+              "title": "Backlinks for 01-First-Post"
             }
           },
           {
@@ -127,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Index.md",
+                "file": "Analysis/01-First-Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00-Index"
+              "title": "Outgoing links from 01-First-Post"
             }
           },
           {
@@ -170,21 +166,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Index.md",
+                "file": "Analysis/01-First-Post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-Index"
+              "title": "Outline of 01-First-Post"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +192,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "bae816b5dd99603f",
+  "active": "e737f541e5314229",
   "lastOpenFiles": [
+    "_Assets/monthly-chart.jpg",
+    "_Assets/raicher-strategy-chart.jpg",
+    "_Assets/below-below-chart.jpg",
+    "_Assets/rsi-crossover-chart.jpg",
+    "_Assets/zoomed-cycle-chart.png",
+    "Analysis/06-Corpus.md",
+    "_Assets/first-post-chart.jpg",
+    "_Assets",
+    "00-Index.md",
     "README.md",
+    "Analysis/08-Bio.md",
+    "Analysis/07-Evolution.md",
+    "Analysis/05-Key-Predictions.md",
+    "Analysis/04-Glossary.md",
+    "Analysis/03-Raicher-Strategy.md",
+    "Analysis/02-Methodology.md",
     "_Plan/03-Phase-3-Vault-Gen.md",
     "_Plan/02-Phase-2-Filter.md",
     "_Data/DATA-MANIFEST.md",
@@ -209,15 +219,7 @@
     "_Scripts/filter_tweets.md",
     "_Scripts/fill_missing_tweets.md",
     "_Scripts/extract_raicher.md",
-    "00-Index.md",
     "Analysis/01-First-Post.md",
-    "Analysis/08-Bio.md",
-    "Analysis/07-Evolution.md",
-    "Analysis/06-Corpus.md",
-    "Analysis/05-Key-Predictions.md",
-    "Analysis/04-Glossary.md",
-    "Analysis/03-Raicher-Strategy.md",
-    "Analysis/02-Methodology.md",
     "_Scripts/merge_missing.py",
     "_Data/raw_missing/2025-07",
     "_Data/raw_missing/2025-06/page_02.json",
@@ -227,7 +229,6 @@
     "_Data/raw_missing/2025-05",
     "_Data/raw_missing/2025-04/page_03.json",
     "_Data/raw_missing/2025-04/page_02.json",
-    "_Data/raw_missing/2025-04/page_01.json",
     "Welcome.md"
   ]
 }

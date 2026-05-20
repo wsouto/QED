@@ -2,13 +2,14 @@
 tags: [index, moc, raicher]
 created: 2026-05-20
 ---
-
 # QED — @raicher Bitcoin Analysis Vault
 
 > *"Acho que nunca mostrei minha teoria dos ciclos de 7ish anos do $BTCUSD aqui no X..."*
 > — [[Analysis/01-First-Post|First Bitcoin Analysis Post]], May 17, 2024
 
 This vault documents Allan Raicher's Bitcoin analysis methodology as published on X (Twitter). It also preserves every step of how this data was collected, processed, and structured.
+
+
 
 ## Browse the Analysis
 

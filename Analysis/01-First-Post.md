@@ -54,3 +54,13 @@ He introduces a **7-ish year cycle theory** using colored arrows to mark Bitcoin
 The post went viral (99.7K views), and replies were a mix of engagement and skepticism. Raicher continued refining the method over the following weeks — leading to the June 5 RSI crossover strategy, the Raicher Strategy 2 indicator, and eventually the consistent daily/weekly analysis cadence that defines his current presence.
 
 See [[02-Methodology]] for how the method evolved, and [[07-Evolution]] for the full timeline.
+
+## Charts
+
+![[_Assets/first-post-chart.jpg]]
+
+*The original 7-year cycle chart — colored arrows marking Bitcoin's macro phases, with RSI and StochRSI in the lower panel.*
+
+![[_Assets/zoomed-cycle-chart.png]]
+
+*Zoomed view of the current cycle, starting from the RSI dip below 43.83 in June 2022.*
